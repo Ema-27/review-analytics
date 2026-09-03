@@ -1,0 +1,5270 @@
+[
+  {
+    "name": "Grand Hotel Plaza",
+    "type": "hotel",
+    "city": "Roma",
+    "country": "Italia",
+    "category": "4 stelle",
+    "reviews": [
+      {
+        "external_review_id": "sample-0038-4164",
+        "author": "Emma_W",
+        "text": "Esperienza nella media, pulizia nella norma. Esperienza nella media, wifi nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-09-15"
+      },
+      {
+        "external_review_id": "sample-0039-2889",
+        "author": "TheFoodie23",
+        "text": "Tornerei sicuramente, pulizia impeccabile. Consigliatissimo, camera sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-09-19"
+      },
+      {
+        "external_review_id": "sample-0007-4752",
+        "author": "Giulia89",
+        "text": "Consigliatissimo, camera sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-18"
+      },
+      {
+        "external_review_id": "sample-0024-9883",
+        "author": "Giulia89",
+        "text": "Muy satisfechos, sobre todo con personale. Experiencia fantastica, wifi realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-10-20"
+      },
+      {
+        "external_review_id": "sample-0020-7596",
+        "author": "Elena_V",
+        "text": "Fantastic experience, the camera was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2024-10-23"
+      },
+      {
+        "external_review_id": "sample-0028-9808",
+        "author": "Pierre_M",
+        "text": "Experiencia normal, posizione aceptable.",
+        "rating": 3.5,
+        "language": "es",
+        "review_date": "2024-11-05"
+      },
+      {
+        "external_review_id": "sample-0014-8962",
+        "author": "TravelWithMe",
+        "text": "Experience moyenne, personale correct. Experience moyenne, colazione correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2024-11-17"
+      },
+      {
+        "external_review_id": "sample-0022-4872",
+        "author": "AnnaK",
+        "text": "Malheureusement colazione nous a beaucoup decu.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2024-11-25"
+      },
+      {
+        "external_review_id": "sample-0019-2588",
+        "author": "LucaB",
+        "text": "personale laisse a desirer. Malheureusement posizione nous a beaucoup decu.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2024-11-26"
+      },
+      {
+        "external_review_id": "sample-0005-7227",
+        "author": "TheFoodie23",
+        "text": "We wouldn't come back, mainly because of the poor wifi.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2024-12-03"
+      },
+      {
+        "external_review_id": "sample-0037-2771",
+        "author": "Emma_W",
+        "text": "Experiencia fantastica, wifi realmente excelente. Muy satisfechos, sobre todo con camera.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-02-01"
+      },
+      {
+        "external_review_id": "sample-0036-3900",
+        "author": "LucaB",
+        "text": "Malheureusement prezzo nous a beaucoup decu. Malheureusement camera nous a beaucoup decu.",
+        "rating": 1.0,
+        "language": "fr",
+        "review_date": "2025-02-04"
+      },
+      {
+        "external_review_id": "sample-0025-2122",
+        "author": "TravelWithMe",
+        "text": "Fantastic experience, the colazione was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-02-28"
+      },
+      {
+        "external_review_id": "sample-0015-9835",
+        "author": "Pierre_M",
+        "text": "Would definitely come back, pulizia was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-26"
+      },
+      {
+        "external_review_id": "sample-0016-4681",
+        "author": "TravelWithMe",
+        "text": "Would definitely come back, posizione was flawless. Fantastic experience, the prezzo was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-05-02"
+      },
+      {
+        "external_review_id": "sample-0032-1722",
+        "author": "Marco_R",
+        "text": "Malheureusement pulizia nous a beaucoup decu. colazione laisse a desirer.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2025-06-01"
+      },
+      {
+        "external_review_id": "sample-0018-8953",
+        "author": "Pierre_M",
+        "text": "Experience moyenne, prezzo correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2025-06-03"
+      },
+      {
+        "external_review_id": "sample-0029-3584",
+        "author": "MariaP",
+        "text": "Consigliatissimo, personale sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-06-09"
+      },
+      {
+        "external_review_id": "sample-0040-6139",
+        "author": "LucaB",
+        "text": "Muy satisfechos, sobre todo con colazione.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-08-10"
+      },
+      {
+        "external_review_id": "sample-0003-6635",
+        "author": "TheFoodie23",
+        "text": "Muy satisfechos, sobre todo con colazione. Experiencia fantastica, wifi realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-08-24"
+      },
+      {
+        "external_review_id": "sample-0009-4593",
+        "author": "JohnD_Traveler",
+        "text": "Would definitely come back, camera was flawless. Would definitely come back, prezzo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-08-27"
+      },
+      {
+        "external_review_id": "sample-0034-3426",
+        "author": "LucaB",
+        "text": "Average experience, prezzo was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-09-04"
+      },
+      {
+        "external_review_id": "sample-0023-5345",
+        "author": "MariaP",
+        "text": "Tornerei sicuramente, colazione impeccabile. Esperienza fantastica, personale davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-09-25"
+      },
+      {
+        "external_review_id": "sample-0021-5092",
+        "author": "TravelWithMe",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per personale. Consigliatissimo, posizione sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-08"
+      },
+      {
+        "external_review_id": "sample-0013-1319",
+        "author": "Sofia_L",
+        "text": "Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-01-04"
+      },
+      {
+        "external_review_id": "sample-0041-9821",
+        "author": "Pierre_M",
+        "text": "Would definitely come back, colazione was flawless. Fantastic experience, the camera was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-02-05"
+      },
+      {
+        "external_review_id": "sample-0001-4257",
+        "author": "LucaB",
+        "text": "Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-03-19"
+      },
+      {
+        "external_review_id": "sample-0033-1158",
+        "author": "Sofia_L",
+        "text": "Below expectations because of the personale. Below expectations because of the camera.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-03-19"
+      },
+      {
+        "external_review_id": "sample-0004-4150",
+        "author": "TravelWithMe",
+        "text": "The colazione leaves a lot to be desired. The prezzo leaves a lot to be desired.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-04-05"
+      },
+      {
+        "external_review_id": "sample-0031-4450",
+        "author": "Elena_V",
+        "text": "Consigliatissimo, pulizia sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-05-03"
+      },
+      {
+        "external_review_id": "sample-0006-3803",
+        "author": "Laura_S",
+        "text": "pulizia lascia molto a desiderare. Purtroppo personale ci ha deluso parecchio.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-05-07"
+      },
+      {
+        "external_review_id": "sample-0026-2343",
+        "author": "LucaB",
+        "text": "Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-05-18"
+      },
+      {
+        "external_review_id": "sample-0012-9317",
+        "author": "Pierre_M",
+        "text": "Fantastic experience, the prezzo was truly excellent. Highly recommended, personale exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-06-07"
+      },
+      {
+        "external_review_id": "sample-0011-6573",
+        "author": "Sofia_L",
+        "text": "Experiencia fantastica, prezzo realmente excelente. Muy satisfechos, sobre todo con colazione.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-06-09"
+      },
+      {
+        "external_review_id": "sample-0008-8517",
+        "author": "JohnD_Traveler",
+        "text": "Tornerei sicuramente, personale impeccabile. Tornerei sicuramente, camera impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-06-11"
+      },
+      {
+        "external_review_id": "sample-0030-2697",
+        "author": "JohnD_Traveler",
+        "text": "camera deja mucho que desear.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2026-07-02"
+      },
+      {
+        "external_review_id": "sample-0027-5915",
+        "author": "MariaP",
+        "text": "Niente di eccezionale ma personale accettabile. Esperienza nella media, pulizia nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-07-10"
+      },
+      {
+        "external_review_id": "sample-0000-9935",
+        "author": "TravelWithMe",
+        "text": "Esperienza fantastica, personale davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-15"
+      },
+      {
+        "external_review_id": "sample-0010-7916",
+        "author": "TravelWithMe",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per personale.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-19"
+      },
+      {
+        "external_review_id": "sample-0035-5088",
+        "author": "Sofia_L",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per pulizia.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-21"
+      },
+      {
+        "external_review_id": "sample-0002-7924",
+        "author": "Elena_V",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per wifi.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-08-06"
+      },
+      {
+        "external_review_id": "sample-0017-1964",
+        "author": "Laura_S",
+        "text": "Fantastic experience, the colazione was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-08-16"
+      }
+    ]
+  },
+  {
+    "name": "Hotel Vista Mare",
+    "type": "hotel",
+    "city": "Napoli",
+    "country": "Italia",
+    "category": "3 stelle",
+    "reviews": [
+      {
+        "external_review_id": "sample-0016-5051",
+        "author": "Pierre_M",
+        "text": "Fantastic experience, the personale was truly excellent. Fantastic experience, the camera was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2024-09-22"
+      },
+      {
+        "external_review_id": "sample-0004-5011",
+        "author": "TomH_Reviews",
+        "text": "We wouldn't come back, mainly because of the poor personale. Unfortunately the wifi was quite disappointing.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2024-10-08"
+      },
+      {
+        "external_review_id": "sample-0031-5136",
+        "author": "TomH_Reviews",
+        "text": "Nothing special but the posizione was acceptable. Average experience, wifi was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2024-10-13"
+      },
+      {
+        "external_review_id": "sample-0009-5681",
+        "author": "Laura_S",
+        "text": "Niente di eccezionale ma camera accettabile. Niente di eccezionale ma personale accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-11-09"
+      },
+      {
+        "external_review_id": "sample-0038-1653",
+        "author": "LucaB",
+        "text": "Would definitely come back, pulizia was flawless. Would definitely come back, prezzo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-11-12"
+      },
+      {
+        "external_review_id": "sample-0040-8700",
+        "author": "Carlos_M",
+        "text": "Would definitely come back, personale was flawless. Would definitely come back, prezzo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-11-23"
+      },
+      {
+        "external_review_id": "sample-0042-7622",
+        "author": "Marco_R",
+        "text": "The colazione leaves a lot to be desired. The pulizia leaves a lot to be desired.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2024-12-18"
+      },
+      {
+        "external_review_id": "sample-0014-8564",
+        "author": "AnnaK",
+        "text": "Would definitely come back, camera was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-01-07"
+      },
+      {
+        "external_review_id": "sample-0032-3444",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza nella media, prezzo nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-01-24"
+      },
+      {
+        "external_review_id": "sample-0037-6039",
+        "author": "GlobeTrotterX",
+        "text": "Fantastic experience, the wifi was truly excellent. Fantastic experience, the personale was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-02-07"
+      },
+      {
+        "external_review_id": "sample-0053-5906",
+        "author": "Marco_R",
+        "text": "Average experience, colazione was okay. Nothing special but the camera was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-02-08"
+      },
+      {
+        "external_review_id": "sample-0043-5375",
+        "author": "JohnD_Traveler",
+        "text": "Tornerei sicuramente, prezzo impeccabile. Esperienza fantastica, posizione davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-03-18"
+      },
+      {
+        "external_review_id": "sample-0006-3881",
+        "author": "MariaP",
+        "text": "Esperienza sotto le aspettative a causa di wifi.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-04-03"
+      },
+      {
+        "external_review_id": "sample-0012-5471",
+        "author": "LucaB",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per wifi. Tornerei sicuramente, posizione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-04-03"
+      },
+      {
+        "external_review_id": "sample-0026-7625",
+        "author": "Laura_S",
+        "text": "The colazione leaves a lot to be desired.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-04-05"
+      },
+      {
+        "external_review_id": "sample-0010-7275",
+        "author": "JohnD_Traveler",
+        "text": "Experience fantastique, personale vraiment excellent.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-04-15"
+      },
+      {
+        "external_review_id": "sample-0024-6576",
+        "author": "TheFoodie23",
+        "text": "We were very happy, especially with the personale. Highly recommended, posizione exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-05-13"
+      },
+      {
+        "external_review_id": "sample-0036-4241",
+        "author": "LucaB",
+        "text": "Esperienza fantastica, camera davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per posizione.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-05-19"
+      },
+      {
+        "external_review_id": "sample-0051-6546",
+        "author": "Emma_W",
+        "text": "Would definitely come back, colazione was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-05-20"
+      },
+      {
+        "external_review_id": "sample-0047-5891",
+        "author": "TomH_Reviews",
+        "text": "Highly recommended, pulizia exceeded expectations. Fantastic experience, the prezzo was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-06-07"
+      },
+      {
+        "external_review_id": "sample-0003-9445",
+        "author": "Elena_V",
+        "text": "Fantastic experience, the camera was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-06-08"
+      },
+      {
+        "external_review_id": "sample-0059-4770",
+        "author": "Carlos_M",
+        "text": "Would definitely come back, prezzo was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-06-11"
+      },
+      {
+        "external_review_id": "sample-0056-9955",
+        "author": "AnnaK",
+        "text": "Below expectations because of the wifi.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2025-06-12"
+      },
+      {
+        "external_review_id": "sample-0057-4263",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, camera sopra le aspettative. Tornerei sicuramente, posizione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-06-27"
+      },
+      {
+        "external_review_id": "sample-0018-2771",
+        "author": "Marco_R",
+        "text": "Lamentablemente wifi nos decepciono bastante.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-07-06"
+      },
+      {
+        "external_review_id": "sample-0048-4090",
+        "author": "Laura_S",
+        "text": "Would definitely come back, prezzo was flawless. Would definitely come back, wifi was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-07-17"
+      },
+      {
+        "external_review_id": "sample-0061-7807",
+        "author": "AnnaK",
+        "text": "Consigliatissimo, colazione sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-07-22"
+      },
+      {
+        "external_review_id": "sample-0020-9728",
+        "author": "LucaB",
+        "text": "Average experience, wifi was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-08-12"
+      },
+      {
+        "external_review_id": "sample-0029-3939",
+        "author": "GlobeTrotterX",
+        "text": "colazione lascia molto a desiderare. Non torneremmo, soprattutto per personale scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-08-26"
+      },
+      {
+        "external_review_id": "sample-0046-4122",
+        "author": "JohnD_Traveler",
+        "text": "Tornerei sicuramente, posizione impeccabile. Siamo rimasti molto soddisfatti, soprattutto per personale.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-09-18"
+      },
+      {
+        "external_review_id": "sample-0011-1320",
+        "author": "Emma_W",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per posizione. Tornerei sicuramente, colazione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-09-24"
+      },
+      {
+        "external_review_id": "sample-0025-9004",
+        "author": "Laura_S",
+        "text": "We were very happy, especially with the colazione.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-10-12"
+      },
+      {
+        "external_review_id": "sample-0035-8381",
+        "author": "TomH_Reviews",
+        "text": "Esperienza fantastica, personale davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-10-14"
+      },
+      {
+        "external_review_id": "sample-0015-5133",
+        "author": "TravelWithMe",
+        "text": "Tornerei sicuramente, pulizia impeccabile. Consigliatissimo, wifi sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-10-27"
+      },
+      {
+        "external_review_id": "sample-0023-4995",
+        "author": "MariaP",
+        "text": "Fantastic experience, the pulizia was truly excellent. Highly recommended, personale exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-11-26"
+      },
+      {
+        "external_review_id": "sample-0033-8253",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza nella media, prezzo nella norma. Niente di eccezionale ma wifi accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-11-26"
+      },
+      {
+        "external_review_id": "sample-0007-9702",
+        "author": "Elena_V",
+        "text": "Experiencia fantastica, posizione realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-12-10"
+      },
+      {
+        "external_review_id": "sample-0002-8238",
+        "author": "MariaP",
+        "text": "Nous etions tres satisfaits, surtout pour pulizia. Nous etions tres satisfaits, surtout pour personale.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-12-11"
+      },
+      {
+        "external_review_id": "sample-0008-8373",
+        "author": "TheFoodie23",
+        "text": "Below expectations because of the wifi. We wouldn't come back, mainly because of the poor prezzo.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-12-21"
+      },
+      {
+        "external_review_id": "sample-0021-2729",
+        "author": "LucaB",
+        "text": "Would definitely come back, wifi was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-01-05"
+      },
+      {
+        "external_review_id": "sample-0005-7547",
+        "author": "Laura_S",
+        "text": "Nous etions tres satisfaits, surtout pour camera.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2026-01-10"
+      },
+      {
+        "external_review_id": "sample-0000-6067",
+        "author": "LucaB",
+        "text": "Fantastic experience, the prezzo was truly excellent. Highly recommended, pulizia exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-01-23"
+      },
+      {
+        "external_review_id": "sample-0022-5425",
+        "author": "TomH_Reviews",
+        "text": "Malheureusement posizione nous a beaucoup decu.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2026-02-07"
+      },
+      {
+        "external_review_id": "sample-0050-8486",
+        "author": "Marco_R",
+        "text": "Tornerei sicuramente, wifi impeccabile. Esperienza fantastica, colazione davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-02-11"
+      },
+      {
+        "external_review_id": "sample-0054-7751",
+        "author": "AnnaK",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per pulizia. Siamo rimasti molto soddisfatti, soprattutto per posizione.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-02-16"
+      },
+      {
+        "external_review_id": "sample-0028-4033",
+        "author": "Pierre_M",
+        "text": "Esperienza fantastica, pulizia davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-02-21"
+      },
+      {
+        "external_review_id": "sample-0055-3344",
+        "author": "Laura_S",
+        "text": "We were very happy, especially with the prezzo. Would definitely come back, camera was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-11"
+      },
+      {
+        "external_review_id": "sample-0019-4978",
+        "author": "Sofia_L",
+        "text": "Experiencia fantastica, posizione realmente excelente. Experiencia fantastica, camera realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-04-20"
+      },
+      {
+        "external_review_id": "sample-0052-2121",
+        "author": "Laura_S",
+        "text": "Experience moyenne, pulizia correct. Experience moyenne, camera correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2026-05-16"
+      },
+      {
+        "external_review_id": "sample-0013-9751",
+        "author": "Marco_R",
+        "text": "Tornerei sicuramente, camera impeccabile. Siamo rimasti molto soddisfatti, soprattutto per personale.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-05-21"
+      },
+      {
+        "external_review_id": "sample-0034-4457",
+        "author": "TheFoodie23",
+        "text": "We were very happy, especially with the wifi.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-05-24"
+      },
+      {
+        "external_review_id": "sample-0060-1645",
+        "author": "GlobeTrotterX",
+        "text": "Unfortunately the camera was quite disappointing.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2026-05-26"
+      },
+      {
+        "external_review_id": "sample-0045-3522",
+        "author": "TomH_Reviews",
+        "text": "Esperienza fantastica, posizione davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-06-16"
+      },
+      {
+        "external_review_id": "sample-0058-7484",
+        "author": "TheFoodie23",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Esperienza fantastica, pulizia davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-06-27"
+      },
+      {
+        "external_review_id": "sample-0001-7211",
+        "author": "AnnaK",
+        "text": "Tornerei sicuramente, personale impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-03"
+      },
+      {
+        "external_review_id": "sample-0039-5415",
+        "author": "Giulia89",
+        "text": "Purtroppo camera ci ha deluso parecchio.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-07-11"
+      },
+      {
+        "external_review_id": "sample-0041-9117",
+        "author": "GlobeTrotterX",
+        "text": "Would definitely come back, pulizia was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-08-02"
+      },
+      {
+        "external_review_id": "sample-0030-3068",
+        "author": "TomH_Reviews",
+        "text": "colazione lascia molto a desiderare.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-08-06"
+      },
+      {
+        "external_review_id": "sample-0017-5198",
+        "author": "Carlos_M",
+        "text": "Non torneremmo, soprattutto per camera scadente. Esperienza sotto le aspettative a causa di colazione.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-08-08"
+      },
+      {
+        "external_review_id": "sample-0027-8434",
+        "author": "TheFoodie23",
+        "text": "posizione lascia molto a desiderare. camera lascia molto a desiderare.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2026-08-11"
+      },
+      {
+        "external_review_id": "sample-0049-7246",
+        "author": "Emma_W",
+        "text": "Would definitely come back, pulizia was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-08-14"
+      },
+      {
+        "external_review_id": "sample-0044-3594",
+        "author": "GlobeTrotterX",
+        "text": "We were very happy, especially with the colazione.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-08-18"
+      }
+    ]
+  },
+  {
+    "name": "Hotel Riviera Barcelona",
+    "type": "hotel",
+    "city": "Barcellona",
+    "country": "Spagna",
+    "category": "4 stelle",
+    "reviews": [
+      {
+        "external_review_id": "sample-0020-3955",
+        "author": "TheFoodie23",
+        "text": "Experiencia normal, prezzo aceptable.",
+        "rating": 3.5,
+        "language": "es",
+        "review_date": "2024-09-20"
+      },
+      {
+        "external_review_id": "sample-0038-6401",
+        "author": "Sofia_L",
+        "text": "Experiencia fantastica, posizione realmente excelente. Muy satisfechos, sobre todo con pulizia.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-10-28"
+      },
+      {
+        "external_review_id": "sample-0008-4394",
+        "author": "Pierre_M",
+        "text": "Non torneremmo, soprattutto per wifi scadente.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2024-10-31"
+      },
+      {
+        "external_review_id": "sample-0013-2323",
+        "author": "Elena_V",
+        "text": "Niente di eccezionale ma posizione accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-11-05"
+      },
+      {
+        "external_review_id": "sample-0029-8155",
+        "author": "Sofia_L",
+        "text": "Tornerei sicuramente, personale impeccabile. Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-11-20"
+      },
+      {
+        "external_review_id": "sample-0007-4475",
+        "author": "Marco_R",
+        "text": "Tornerei sicuramente, wifi impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2024-11-23"
+      },
+      {
+        "external_review_id": "sample-0019-5564",
+        "author": "Laura_S",
+        "text": "Consigliatissimo, personale sopra le aspettative. Consigliatissimo, colazione sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-12-17"
+      },
+      {
+        "external_review_id": "sample-0009-9850",
+        "author": "TheFoodie23",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per pulizia.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-01-02"
+      },
+      {
+        "external_review_id": "sample-0017-1982",
+        "author": "Elena_V",
+        "text": "Niente di eccezionale ma camera accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-01-02"
+      },
+      {
+        "external_review_id": "sample-0042-3538",
+        "author": "TravelWithMe",
+        "text": "Experiencia fantastica, wifi realmente excelente. Experiencia fantastica, posizione realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-01-09"
+      },
+      {
+        "external_review_id": "sample-0016-8770",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, posizione exceeded expectations. Highly recommended, pulizia exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-01-25"
+      },
+      {
+        "external_review_id": "sample-0023-3579",
+        "author": "Giulia89",
+        "text": "Esperienza fantastica, wifi davvero eccellente. Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-01-28"
+      },
+      {
+        "external_review_id": "sample-0032-9095",
+        "author": "MariaP",
+        "text": "Esperienza fantastica, wifi davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-02-19"
+      },
+      {
+        "external_review_id": "sample-0024-9394",
+        "author": "Sofia_L",
+        "text": "Would definitely come back, prezzo was flawless. Highly recommended, posizione exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-30"
+      },
+      {
+        "external_review_id": "sample-0025-7475",
+        "author": "Giulia89",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Esperienza fantastica, camera davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-04-04"
+      },
+      {
+        "external_review_id": "sample-0015-7779",
+        "author": "Elena_V",
+        "text": "Nothing special but the posizione was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-04-12"
+      },
+      {
+        "external_review_id": "sample-0010-6304",
+        "author": "Marco_R",
+        "text": "Nous etions tres satisfaits, surtout pour colazione.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-04-22"
+      },
+      {
+        "external_review_id": "sample-0037-8172",
+        "author": "MariaP",
+        "text": "Experience fantastique, camera vraiment excellent. Experience fantastique, colazione vraiment excellent.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-05-02"
+      },
+      {
+        "external_review_id": "sample-0000-8894",
+        "author": "GlobeTrotterX",
+        "text": "prezzo laisse a desirer. Malheureusement wifi nous a beaucoup decu.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2025-05-12"
+      },
+      {
+        "external_review_id": "sample-0026-6375",
+        "author": "Sofia_L",
+        "text": "Muy satisfechos, sobre todo con wifi.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-06-14"
+      },
+      {
+        "external_review_id": "sample-0004-9071",
+        "author": "Sofia_L",
+        "text": "Esperienza nella media, colazione nella norma. Esperienza nella media, personale nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-06-29"
+      },
+      {
+        "external_review_id": "sample-0034-8565",
+        "author": "MariaP",
+        "text": "Unfortunately the pulizia was quite disappointing.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2025-07-05"
+      },
+      {
+        "external_review_id": "sample-0028-8033",
+        "author": "Emma_W",
+        "text": "Esperienza nella media, posizione nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-07-08"
+      },
+      {
+        "external_review_id": "sample-0036-8792",
+        "author": "JohnD_Traveler",
+        "text": "Experiencia fantastica, posizione realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-07-17"
+      },
+      {
+        "external_review_id": "sample-0030-4630",
+        "author": "Elena_V",
+        "text": "Consigliatissimo, posizione sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-08-04"
+      },
+      {
+        "external_review_id": "sample-0031-3419",
+        "author": "Laura_S",
+        "text": "Highly recommended, wifi exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-08-16"
+      },
+      {
+        "external_review_id": "sample-0006-2627",
+        "author": "Carlos_M",
+        "text": "Niente di eccezionale ma personale accettabile. Esperienza nella media, posizione nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-08-28"
+      },
+      {
+        "external_review_id": "sample-0022-7878",
+        "author": "MariaP",
+        "text": "Lamentablemente camera nos decepciono bastante.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-09-11"
+      },
+      {
+        "external_review_id": "sample-0005-2622",
+        "author": "TomH_Reviews",
+        "text": "Would definitely come back, posizione was flawless. We were very happy, especially with the pulizia.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-10-20"
+      },
+      {
+        "external_review_id": "sample-0033-2118",
+        "author": "TomH_Reviews",
+        "text": "wifi laisse a desirer. Malheureusement camera nous a beaucoup decu.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2025-11-15"
+      },
+      {
+        "external_review_id": "sample-0011-6931",
+        "author": "Sofia_L",
+        "text": "Esperienza fantastica, prezzo davvero eccellente. Tornerei sicuramente, colazione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-24"
+      },
+      {
+        "external_review_id": "sample-0012-1510",
+        "author": "Giulia89",
+        "text": "Muy satisfechos, sobre todo con camera.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-12-04"
+      },
+      {
+        "external_review_id": "sample-0027-6802",
+        "author": "TravelWithMe",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per posizione.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-01-16"
+      },
+      {
+        "external_review_id": "sample-0014-8048",
+        "author": "Sofia_L",
+        "text": "Consigliatissimo, posizione sopra le aspettative. Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-01-21"
+      },
+      {
+        "external_review_id": "sample-0041-6928",
+        "author": "Marco_R",
+        "text": "camera laisse a desirer.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2026-01-24"
+      },
+      {
+        "external_review_id": "sample-0040-7171",
+        "author": "Elena_V",
+        "text": "Average experience, personale was okay. Nothing special but the prezzo was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-03-17"
+      },
+      {
+        "external_review_id": "sample-0021-7566",
+        "author": "TravelWithMe",
+        "text": "Esperienza nella media, wifi nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-03-24"
+      },
+      {
+        "external_review_id": "sample-0039-3317",
+        "author": "Carlos_M",
+        "text": "Fantastic experience, the pulizia was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-10"
+      },
+      {
+        "external_review_id": "sample-0018-6119",
+        "author": "Carlos_M",
+        "text": "Experience fantastique, wifi vraiment excellent. Nous etions tres satisfaits, surtout pour camera.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2026-04-28"
+      },
+      {
+        "external_review_id": "sample-0003-4626",
+        "author": "TravelWithMe",
+        "text": "Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-05-08"
+      },
+      {
+        "external_review_id": "sample-0035-9307",
+        "author": "Emma_W",
+        "text": "Experience fantastique, camera vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2026-05-13"
+      },
+      {
+        "external_review_id": "sample-0002-5295",
+        "author": "Emma_W",
+        "text": "posizione lascia molto a desiderare.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2026-07-11"
+      },
+      {
+        "external_review_id": "sample-0001-7511",
+        "author": "Carlos_M",
+        "text": "We wouldn't come back, mainly because of the poor personale.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-07-15"
+      }
+    ]
+  },
+  {
+    "name": "Le Petit Palais Hotel",
+    "type": "hotel",
+    "city": "Parigi",
+    "country": "Francia",
+    "category": "4 stelle",
+    "reviews": [
+      {
+        "external_review_id": "sample-0005-7797",
+        "author": "Giulia89",
+        "text": "Would definitely come back, colazione was flawless. Highly recommended, personale exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-09-18"
+      },
+      {
+        "external_review_id": "sample-0006-6221",
+        "author": "Sofia_L",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per pulizia.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-09-19"
+      },
+      {
+        "external_review_id": "sample-0001-7731",
+        "author": "Carlos_M",
+        "text": "Nous etions tres satisfaits, surtout pour camera.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2024-10-05"
+      },
+      {
+        "external_review_id": "sample-0011-7338",
+        "author": "Carlos_M",
+        "text": "Tornerei sicuramente, posizione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-05"
+      },
+      {
+        "external_review_id": "sample-0040-7563",
+        "author": "Giulia89",
+        "text": "Niente di eccezionale ma camera accettabile. Niente di eccezionale ma pulizia accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-10-07"
+      },
+      {
+        "external_review_id": "sample-0036-5754",
+        "author": "Emma_W",
+        "text": "We were very happy, especially with the posizione. Fantastic experience, the personale was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-10-12"
+      },
+      {
+        "external_review_id": "sample-0027-6067",
+        "author": "Emma_W",
+        "text": "Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-28"
+      },
+      {
+        "external_review_id": "sample-0024-8406",
+        "author": "AnnaK",
+        "text": "Lamentablemente colazione nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2024-11-05"
+      },
+      {
+        "external_review_id": "sample-0019-7655",
+        "author": "Carlos_M",
+        "text": "Nous etions tres satisfaits, surtout pour prezzo. Experience fantastique, posizione vraiment excellent.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2024-11-06"
+      },
+      {
+        "external_review_id": "sample-0017-8055",
+        "author": "AnnaK",
+        "text": "Nothing special but the camera was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2024-11-10"
+      },
+      {
+        "external_review_id": "sample-0032-1744",
+        "author": "TheFoodie23",
+        "text": "Unfortunately the wifi was quite disappointing. Unfortunately the prezzo was quite disappointing.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2024-11-13"
+      },
+      {
+        "external_review_id": "sample-0022-1424",
+        "author": "AnnaK",
+        "text": "Highly recommended, pulizia exceeded expectations. We were very happy, especially with the camera.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-12-16"
+      },
+      {
+        "external_review_id": "sample-0008-1782",
+        "author": "Laura_S",
+        "text": "Experience fantastique, colazione vraiment excellent. Nous etions tres satisfaits, surtout pour pulizia.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2024-12-24"
+      },
+      {
+        "external_review_id": "sample-0016-9129",
+        "author": "TomH_Reviews",
+        "text": "Tornerei sicuramente, camera impeccabile. Consigliatissimo, posizione sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-03-01"
+      },
+      {
+        "external_review_id": "sample-0003-3267",
+        "author": "TheFoodie23",
+        "text": "Tornerei sicuramente, prezzo impeccabile. Siamo rimasti molto soddisfatti, soprattutto per wifi.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-03-14"
+      },
+      {
+        "external_review_id": "sample-0014-1686",
+        "author": "Elena_V",
+        "text": "We were very happy, especially with the colazione. Fantastic experience, the pulizia was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-14"
+      },
+      {
+        "external_review_id": "sample-0026-9094",
+        "author": "Marco_R",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per wifi.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-04-21"
+      },
+      {
+        "external_review_id": "sample-0010-7825",
+        "author": "AnnaK",
+        "text": "prezzo lascia molto a desiderare.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-04-25"
+      },
+      {
+        "external_review_id": "sample-0004-2374",
+        "author": "AnnaK",
+        "text": "Malheureusement camera nous a beaucoup decu.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2025-06-09"
+      },
+      {
+        "external_review_id": "sample-0025-3580",
+        "author": "AnnaK",
+        "text": "Experience moyenne, camera correct. Experience moyenne, pulizia correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-06-25"
+      },
+      {
+        "external_review_id": "sample-0030-9501",
+        "author": "GlobeTrotterX",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per pulizia.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-08-11"
+      },
+      {
+        "external_review_id": "sample-0015-1783",
+        "author": "Elena_V",
+        "text": "Experiencia fantastica, pulizia realmente excelente. Muy satisfechos, sobre todo con colazione.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-08-22"
+      },
+      {
+        "external_review_id": "sample-0021-7095",
+        "author": "MariaP",
+        "text": "Niente di eccezionale ma camera accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-09-05"
+      },
+      {
+        "external_review_id": "sample-0038-9281",
+        "author": "MariaP",
+        "text": "Fantastic experience, the pulizia was truly excellent. Fantastic experience, the posizione was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-09-28"
+      },
+      {
+        "external_review_id": "sample-0035-3142",
+        "author": "Carlos_M",
+        "text": "Highly recommended, wifi exceeded expectations. Highly recommended, camera exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-10-04"
+      },
+      {
+        "external_review_id": "sample-0029-9238",
+        "author": "Giulia89",
+        "text": "Non torneremmo, soprattutto per wifi scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-11-08"
+      },
+      {
+        "external_review_id": "sample-0034-7809",
+        "author": "TomH_Reviews",
+        "text": "Unfortunately the posizione was quite disappointing. We wouldn't come back, mainly because of the poor colazione.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2025-11-15"
+      },
+      {
+        "external_review_id": "sample-0007-1086",
+        "author": "TravelWithMe",
+        "text": "Non torneremmo, soprattutto per wifi scadente. Esperienza sotto le aspettative a causa di posizione.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-11-24"
+      },
+      {
+        "external_review_id": "sample-0002-4178",
+        "author": "Carlos_M",
+        "text": "Average experience, personale was okay. Nothing special but the prezzo was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-12-15"
+      },
+      {
+        "external_review_id": "sample-0031-3762",
+        "author": "JohnD_Traveler",
+        "text": "Highly recommended, personale exceeded expectations. Fantastic experience, the camera was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-01-18"
+      },
+      {
+        "external_review_id": "sample-0037-6123",
+        "author": "Pierre_M",
+        "text": "Nous etions tres satisfaits, surtout pour wifi.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2026-04-05"
+      },
+      {
+        "external_review_id": "sample-0009-9782",
+        "author": "Marco_R",
+        "text": "Below expectations because of the colazione.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2026-04-25"
+      },
+      {
+        "external_review_id": "sample-0039-8710",
+        "author": "GlobeTrotterX",
+        "text": "Tornerei sicuramente, pulizia impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-04-25"
+      },
+      {
+        "external_review_id": "sample-0000-3147",
+        "author": "Emma_W",
+        "text": "Highly recommended, camera exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-05-16"
+      },
+      {
+        "external_review_id": "sample-0028-2215",
+        "author": "MariaP",
+        "text": "Highly recommended, personale exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-06-10"
+      },
+      {
+        "external_review_id": "sample-0033-5949",
+        "author": "TomH_Reviews",
+        "text": "posizione lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-06-10"
+      },
+      {
+        "external_review_id": "sample-0020-7001",
+        "author": "Carlos_M",
+        "text": "Esperienza nella media, colazione nella norma. Esperienza nella media, personale nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-06-13"
+      },
+      {
+        "external_review_id": "sample-0012-2698",
+        "author": "Elena_V",
+        "text": "Non torneremmo, soprattutto per pulizia scadente.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-06-25"
+      },
+      {
+        "external_review_id": "sample-0018-8272",
+        "author": "Carlos_M",
+        "text": "Tornerei sicuramente, pulizia impeccabile. Siamo rimasti molto soddisfatti, soprattutto per posizione.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-29"
+      },
+      {
+        "external_review_id": "sample-0013-8840",
+        "author": "AnnaK",
+        "text": "Would definitely come back, wifi was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-08-04"
+      },
+      {
+        "external_review_id": "sample-0023-8311",
+        "author": "Pierre_M",
+        "text": "Muy satisfechos, sobre todo con pulizia.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-08-12"
+      }
+    ]
+  },
+  {
+    "name": "Trattoria da Enzo",
+    "type": "restaurant",
+    "city": "Roma",
+    "country": "Italia",
+    "category": "Cucina romana",
+    "reviews": [
+      {
+        "external_review_id": "sample-0055-6050",
+        "author": "MariaP",
+        "text": "Unfortunately the prezzo was quite disappointing. Unfortunately the tempi di attesa was quite disappointing.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2024-08-27"
+      },
+      {
+        "external_review_id": "sample-0045-1274",
+        "author": "TheFoodie23",
+        "text": "Fantastic experience, the atmosfera was truly excellent. Would definitely come back, cibo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-09-03"
+      },
+      {
+        "external_review_id": "sample-0050-4394",
+        "author": "JohnD_Traveler",
+        "text": "Nothing special but the servizio was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2024-09-07"
+      },
+      {
+        "external_review_id": "sample-0027-5888",
+        "author": "MariaP",
+        "text": "Experiencia fantastica, tempi di attesa realmente excelente. Experiencia fantastica, servizio realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-09-14"
+      },
+      {
+        "external_review_id": "sample-0025-5703",
+        "author": "LucaB",
+        "text": "Tornerei sicuramente, cibo impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-09-23"
+      },
+      {
+        "external_review_id": "sample-0004-8871",
+        "author": "AnnaK",
+        "text": "cibo deja mucho que desear. Lamentablemente atmosfera nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2024-10-13"
+      },
+      {
+        "external_review_id": "sample-0052-2600",
+        "author": "LucaB",
+        "text": "tempi di attesa lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2024-10-15"
+      },
+      {
+        "external_review_id": "sample-0006-3262",
+        "author": "Pierre_M",
+        "text": "Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-24"
+      },
+      {
+        "external_review_id": "sample-0029-2653",
+        "author": "Giulia89",
+        "text": "We were very happy, especially with the servizio.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-10-29"
+      },
+      {
+        "external_review_id": "sample-0043-1794",
+        "author": "Marco_R",
+        "text": "Unfortunately the tempi di attesa was quite disappointing.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2024-11-06"
+      },
+      {
+        "external_review_id": "sample-0054-5390",
+        "author": "JohnD_Traveler",
+        "text": "We were very happy, especially with the cibo. Fantastic experience, the prezzo was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-11-14"
+      },
+      {
+        "external_review_id": "sample-0000-7453",
+        "author": "Carlos_M",
+        "text": "Esperienza fantastica, tempi di attesa davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-11-29"
+      },
+      {
+        "external_review_id": "sample-0015-6417",
+        "author": "AnnaK",
+        "text": "Highly recommended, servizio exceeded expectations. We were very happy, especially with the atmosfera.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-12-15"
+      },
+      {
+        "external_review_id": "sample-0023-9409",
+        "author": "LucaB",
+        "text": "Unfortunately the cibo was quite disappointing. Below expectations because of the atmosfera.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2025-01-04"
+      },
+      {
+        "external_review_id": "sample-0033-5913",
+        "author": "Emma_W",
+        "text": "Tornerei sicuramente, atmosfera impeccabile. Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-01-21"
+      },
+      {
+        "external_review_id": "sample-0028-5516",
+        "author": "Pierre_M",
+        "text": "Nous etions tres satisfaits, surtout pour atmosfera.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-01-27"
+      },
+      {
+        "external_review_id": "sample-0019-7642",
+        "author": "GlobeTrotterX",
+        "text": "atmosfera lascia molto a desiderare.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-02-01"
+      },
+      {
+        "external_review_id": "sample-0022-6375",
+        "author": "MariaP",
+        "text": "Esperienza nella media, tempi di attesa nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-02-06"
+      },
+      {
+        "external_review_id": "sample-0042-6770",
+        "author": "AnnaK",
+        "text": "Muy satisfechos, sobre todo con prezzo. Muy satisfechos, sobre todo con atmosfera.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2025-02-10"
+      },
+      {
+        "external_review_id": "sample-0013-7846",
+        "author": "AnnaK",
+        "text": "Non torneremmo, soprattutto per cibo scadente. Purtroppo tempi di attesa ci ha deluso parecchio.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-02-17"
+      },
+      {
+        "external_review_id": "sample-0017-3303",
+        "author": "TomH_Reviews",
+        "text": "Average experience, atmosfera was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-02-27"
+      },
+      {
+        "external_review_id": "sample-0005-1310",
+        "author": "MariaP",
+        "text": "Fantastic experience, the tempi di attesa was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-05"
+      },
+      {
+        "external_review_id": "sample-0010-9824",
+        "author": "TheFoodie23",
+        "text": "Would definitely come back, atmosfera was flawless. We were very happy, especially with the prezzo.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-16"
+      },
+      {
+        "external_review_id": "sample-0024-2196",
+        "author": "Giulia89",
+        "text": "Highly recommended, cibo exceeded expectations. Fantastic experience, the atmosfera was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-02"
+      },
+      {
+        "external_review_id": "sample-0044-9285",
+        "author": "MariaP",
+        "text": "Fantastic experience, the servizio was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-02"
+      },
+      {
+        "external_review_id": "sample-0041-7223",
+        "author": "Laura_S",
+        "text": "We were very happy, especially with the prezzo. Highly recommended, servizio exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-14"
+      },
+      {
+        "external_review_id": "sample-0031-6224",
+        "author": "Elena_V",
+        "text": "The tempi di attesa leaves a lot to be desired.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-04-18"
+      },
+      {
+        "external_review_id": "sample-0046-4144",
+        "author": "TheFoodie23",
+        "text": "Experience fantastique, servizio vraiment excellent. Experience fantastique, cibo vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2025-04-25"
+      },
+      {
+        "external_review_id": "sample-0049-1762",
+        "author": "TravelWithMe",
+        "text": "Experiencia normal, servizio aceptable.",
+        "rating": 3.5,
+        "language": "es",
+        "review_date": "2025-05-26"
+      },
+      {
+        "external_review_id": "sample-0032-1998",
+        "author": "AnnaK",
+        "text": "Consigliatissimo, atmosfera sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-05-30"
+      },
+      {
+        "external_review_id": "sample-0014-2758",
+        "author": "Elena_V",
+        "text": "Esperienza nella media, servizio nella norma. Esperienza nella media, prezzo nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-06-23"
+      },
+      {
+        "external_review_id": "sample-0047-2320",
+        "author": "Giulia89",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per atmosfera. Siamo rimasti molto soddisfatti, soprattutto per tempi di attesa.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-06-25"
+      },
+      {
+        "external_review_id": "sample-0018-1187",
+        "author": "TheFoodie23",
+        "text": "Niente di eccezionale ma servizio accettabile. Niente di eccezionale ma atmosfera accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-06-27"
+      },
+      {
+        "external_review_id": "sample-0002-6218",
+        "author": "AnnaK",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per tempi di attesa. Siamo rimasti molto soddisfatti, soprattutto per atmosfera.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-23"
+      },
+      {
+        "external_review_id": "sample-0035-2295",
+        "author": "MariaP",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-26"
+      },
+      {
+        "external_review_id": "sample-0037-5967",
+        "author": "Marco_R",
+        "text": "We wouldn't come back, mainly because of the poor atmosfera.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-07-28"
+      },
+      {
+        "external_review_id": "sample-0009-3399",
+        "author": "GlobeTrotterX",
+        "text": "Muy satisfechos, sobre todo con prezzo. Muy satisfechos, sobre todo con cibo.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-08-10"
+      },
+      {
+        "external_review_id": "sample-0039-9401",
+        "author": "TomH_Reviews",
+        "text": "Highly recommended, atmosfera exceeded expectations. Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-08-25"
+      },
+      {
+        "external_review_id": "sample-0026-2314",
+        "author": "JohnD_Traveler",
+        "text": "Below expectations because of the prezzo. Below expectations because of the atmosfera.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-09-10"
+      },
+      {
+        "external_review_id": "sample-0036-1647",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, cibo exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-09-12"
+      },
+      {
+        "external_review_id": "sample-0057-1202",
+        "author": "GlobeTrotterX",
+        "text": "Consigliatissimo, tempi di attesa sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-09-20"
+      },
+      {
+        "external_review_id": "sample-0030-8191",
+        "author": "Laura_S",
+        "text": "Fantastic experience, the servizio was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-10-07"
+      },
+      {
+        "external_review_id": "sample-0012-8793",
+        "author": "TomH_Reviews",
+        "text": "Esperienza fantastica, cibo davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per servizio.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-10-12"
+      },
+      {
+        "external_review_id": "sample-0040-1749",
+        "author": "Laura_S",
+        "text": "Muy satisfechos, sobre todo con prezzo. Muy satisfechos, sobre todo con servizio.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2025-10-19"
+      },
+      {
+        "external_review_id": "sample-0056-9395",
+        "author": "LucaB",
+        "text": "Esperienza sotto le aspettative a causa di servizio.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-11-24"
+      },
+      {
+        "external_review_id": "sample-0034-1944",
+        "author": "LucaB",
+        "text": "We wouldn't come back, mainly because of the poor prezzo.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2025-12-09"
+      },
+      {
+        "external_review_id": "sample-0003-1272",
+        "author": "Carlos_M",
+        "text": "Nothing special but the tempi di attesa was acceptable. Nothing special but the prezzo was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-12-21"
+      },
+      {
+        "external_review_id": "sample-0020-3509",
+        "author": "MariaP",
+        "text": "Lamentablemente tempi di attesa nos decepciono bastante. Lamentablemente servizio nos decepciono bastante.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-12-24"
+      },
+      {
+        "external_review_id": "sample-0053-4737",
+        "author": "Carlos_M",
+        "text": "Niente di eccezionale ma prezzo accettabile. Niente di eccezionale ma cibo accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-01-06"
+      },
+      {
+        "external_review_id": "sample-0048-8109",
+        "author": "Elena_V",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per cibo. Esperienza fantastica, tempi di attesa davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-01-15"
+      },
+      {
+        "external_review_id": "sample-0001-1659",
+        "author": "Giulia89",
+        "text": "Tornerei sicuramente, servizio impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-01-16"
+      },
+      {
+        "external_review_id": "sample-0021-8319",
+        "author": "Carlos_M",
+        "text": "We were very happy, especially with the tempi di attesa. Fantastic experience, the servizio was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-02-11"
+      },
+      {
+        "external_review_id": "sample-0007-6804",
+        "author": "TheFoodie23",
+        "text": "Nothing special but the prezzo was acceptable. Nothing special but the servizio was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-03-04"
+      },
+      {
+        "external_review_id": "sample-0016-4164",
+        "author": "AnnaK",
+        "text": "The prezzo leaves a lot to be desired.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2026-03-26"
+      },
+      {
+        "external_review_id": "sample-0011-9700",
+        "author": "Laura_S",
+        "text": "Fantastic experience, the servizio was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-07-08"
+      },
+      {
+        "external_review_id": "sample-0051-9856",
+        "author": "Elena_V",
+        "text": "Niente di eccezionale ma tempi di attesa accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-07-16"
+      },
+      {
+        "external_review_id": "sample-0008-9011",
+        "author": "Elena_V",
+        "text": "Consigliatissimo, servizio sopra le aspettative. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-29"
+      },
+      {
+        "external_review_id": "sample-0038-4350",
+        "author": "Emma_W",
+        "text": "Experiencia normal, atmosfera aceptable.",
+        "rating": 3.0,
+        "language": "es",
+        "review_date": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "name": "La Terrazza sul Golfo",
+    "type": "restaurant",
+    "city": "Napoli",
+    "country": "Italia",
+    "category": "Pesce",
+    "reviews": [
+      {
+        "external_review_id": "sample-0031-3035",
+        "author": "AnnaK",
+        "text": "Nothing special but the cibo was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2024-09-07"
+      },
+      {
+        "external_review_id": "sample-0014-4232",
+        "author": "MariaP",
+        "text": "Niente di eccezionale ma servizio accettabile. Niente di eccezionale ma tempi di attesa accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-09-20"
+      },
+      {
+        "external_review_id": "sample-0023-8368",
+        "author": "TheFoodie23",
+        "text": "Muy satisfechos, sobre todo con servizio.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-09-24"
+      },
+      {
+        "external_review_id": "sample-0026-5543",
+        "author": "JohnD_Traveler",
+        "text": "Esperienza nella media, tempi di attesa nella norma. Niente di eccezionale ma cibo accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-10-21"
+      },
+      {
+        "external_review_id": "sample-0029-9756",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, atmosfera sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-10-25"
+      },
+      {
+        "external_review_id": "sample-0034-3174",
+        "author": "Laura_S",
+        "text": "Below expectations because of the servizio.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2024-11-09"
+      },
+      {
+        "external_review_id": "sample-0043-9791",
+        "author": "JohnD_Traveler",
+        "text": "Niente di eccezionale ma tempi di attesa accettabile. Niente di eccezionale ma atmosfera accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-11-14"
+      },
+      {
+        "external_review_id": "sample-0056-1719",
+        "author": "Laura_S",
+        "text": "Experiencia fantastica, atmosfera realmente excelente. Muy satisfechos, sobre todo con cibo.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-11-25"
+      },
+      {
+        "external_review_id": "sample-0009-5239",
+        "author": "Laura_S",
+        "text": "Fantastic experience, the prezzo was truly excellent. Fantastic experience, the atmosfera was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2024-11-30"
+      },
+      {
+        "external_review_id": "sample-0002-3219",
+        "author": "GlobeTrotterX",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per servizio. Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2024-12-09"
+      },
+      {
+        "external_review_id": "sample-0017-4908",
+        "author": "GlobeTrotterX",
+        "text": "Average experience, tempi di attesa was okay. Nothing special but the cibo was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2024-12-20"
+      },
+      {
+        "external_review_id": "sample-0047-1480",
+        "author": "Elena_V",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per servizio. Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-12-20"
+      },
+      {
+        "external_review_id": "sample-0006-5961",
+        "author": "Laura_S",
+        "text": "Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-01-11"
+      },
+      {
+        "external_review_id": "sample-0027-5402",
+        "author": "LucaB",
+        "text": "Would definitely come back, atmosfera was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-01-14"
+      },
+      {
+        "external_review_id": "sample-0054-1104",
+        "author": "LucaB",
+        "text": "Non torneremmo, soprattutto per tempi di attesa scadente. Non torneremmo, soprattutto per atmosfera scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-01-23"
+      },
+      {
+        "external_review_id": "sample-0018-8973",
+        "author": "AnnaK",
+        "text": "Would definitely come back, atmosfera was flawless. Would definitely come back, servizio was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-02-28"
+      },
+      {
+        "external_review_id": "sample-0038-2420",
+        "author": "Sofia_L",
+        "text": "Below expectations because of the atmosfera.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-04-01"
+      },
+      {
+        "external_review_id": "sample-0039-5537",
+        "author": "TravelWithMe",
+        "text": "The prezzo leaves a lot to be desired. We wouldn't come back, mainly because of the poor atmosfera.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-05-02"
+      },
+      {
+        "external_review_id": "sample-0058-6161",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, servizio sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-05-16"
+      },
+      {
+        "external_review_id": "sample-0042-4534",
+        "author": "Giulia89",
+        "text": "Fantastic experience, the cibo was truly excellent. Fantastic experience, the tempi di attesa was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-05-17"
+      },
+      {
+        "external_review_id": "sample-0032-2529",
+        "author": "Carlos_M",
+        "text": "Muy satisfechos, sobre todo con servizio. Experiencia fantastica, tempi di attesa realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-05-29"
+      },
+      {
+        "external_review_id": "sample-0004-9044",
+        "author": "Laura_S",
+        "text": "Below expectations because of the prezzo. The servizio leaves a lot to be desired.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-06-16"
+      },
+      {
+        "external_review_id": "sample-0036-3246",
+        "author": "Emma_W",
+        "text": "Nous etions tres satisfaits, surtout pour prezzo.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-06-24"
+      },
+      {
+        "external_review_id": "sample-0041-3162",
+        "author": "Emma_W",
+        "text": "Esperienza fantastica, tempi di attesa davvero eccellente. Consigliatissimo, cibo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-12"
+      },
+      {
+        "external_review_id": "sample-0051-5444",
+        "author": "TravelWithMe",
+        "text": "Experience moyenne, servizio correct. Experience moyenne, prezzo correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-07-15"
+      },
+      {
+        "external_review_id": "sample-0011-8460",
+        "author": "Pierre_M",
+        "text": "Niente di eccezionale ma prezzo accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-08-08"
+      },
+      {
+        "external_review_id": "sample-0050-7274",
+        "author": "JohnD_Traveler",
+        "text": "Nous etions tres satisfaits, surtout pour cibo.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-08-29"
+      },
+      {
+        "external_review_id": "sample-0053-4287",
+        "author": "GlobeTrotterX",
+        "text": "Experience moyenne, prezzo correct. Experience moyenne, cibo correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-09-03"
+      },
+      {
+        "external_review_id": "sample-0044-2083",
+        "author": "GlobeTrotterX",
+        "text": "Consigliatissimo, servizio sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-09-26"
+      },
+      {
+        "external_review_id": "sample-0040-5842",
+        "author": "Giulia89",
+        "text": "We were very happy, especially with the cibo. We were very happy, especially with the prezzo.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-09-27"
+      },
+      {
+        "external_review_id": "sample-0045-2900",
+        "author": "MariaP",
+        "text": "Malheureusement servizio nous a beaucoup decu.",
+        "rating": 1.0,
+        "language": "fr",
+        "review_date": "2025-11-09"
+      },
+      {
+        "external_review_id": "sample-0001-5521",
+        "author": "LucaB",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per cibo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-10"
+      },
+      {
+        "external_review_id": "sample-0035-2160",
+        "author": "Laura_S",
+        "text": "We were very happy, especially with the atmosfera.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-12-24"
+      },
+      {
+        "external_review_id": "sample-0010-2712",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-29"
+      },
+      {
+        "external_review_id": "sample-0019-3236",
+        "author": "Pierre_M",
+        "text": "Consigliatissimo, atmosfera sopra le aspettative. Esperienza fantastica, cibo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-31"
+      },
+      {
+        "external_review_id": "sample-0020-3740",
+        "author": "TravelWithMe",
+        "text": "Nothing special but the atmosfera was acceptable. Nothing special but the tempi di attesa was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-01-04"
+      },
+      {
+        "external_review_id": "sample-0057-3187",
+        "author": "Emma_W",
+        "text": "Purtroppo tempi di attesa ci ha deluso parecchio.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-01-21"
+      },
+      {
+        "external_review_id": "sample-0048-6900",
+        "author": "Giulia89",
+        "text": "Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-01-27"
+      },
+      {
+        "external_review_id": "sample-0052-1752",
+        "author": "Emma_W",
+        "text": "We were very happy, especially with the servizio.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-02-01"
+      },
+      {
+        "external_review_id": "sample-0025-5605",
+        "author": "AnnaK",
+        "text": "The cibo leaves a lot to be desired.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2026-02-18"
+      },
+      {
+        "external_review_id": "sample-0007-9300",
+        "author": "LucaB",
+        "text": "Below expectations because of the cibo. Below expectations because of the atmosfera.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-02-20"
+      },
+      {
+        "external_review_id": "sample-0021-5729",
+        "author": "AnnaK",
+        "text": "Non torneremmo, soprattutto per prezzo scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2026-02-23"
+      },
+      {
+        "external_review_id": "sample-0022-7010",
+        "author": "Giulia89",
+        "text": "Fantastic experience, the tempi di attesa was truly excellent. Highly recommended, cibo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-03-01"
+      },
+      {
+        "external_review_id": "sample-0030-3139",
+        "author": "TomH_Reviews",
+        "text": "Experience moyenne, prezzo correct. Experience moyenne, tempi di attesa correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2026-03-05"
+      },
+      {
+        "external_review_id": "sample-0013-3623",
+        "author": "Elena_V",
+        "text": "We wouldn't come back, mainly because of the poor servizio.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2026-03-10"
+      },
+      {
+        "external_review_id": "sample-0049-2889",
+        "author": "Laura_S",
+        "text": "Esperienza nella media, prezzo nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-04-01"
+      },
+      {
+        "external_review_id": "sample-0015-2667",
+        "author": "AnnaK",
+        "text": "Fantastic experience, the prezzo was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-05"
+      },
+      {
+        "external_review_id": "sample-0016-2871",
+        "author": "Carlos_M",
+        "text": "Would definitely come back, atmosfera was flawless. Would definitely come back, prezzo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-15"
+      },
+      {
+        "external_review_id": "sample-0024-6744",
+        "author": "LucaB",
+        "text": "Esperienza nella media, servizio nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-04-16"
+      },
+      {
+        "external_review_id": "sample-0037-3688",
+        "author": "MariaP",
+        "text": "Unfortunately the tempi di attesa was quite disappointing.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2026-05-08"
+      },
+      {
+        "external_review_id": "sample-0033-6005",
+        "author": "Laura_S",
+        "text": "Would definitely come back, cibo was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-05-24"
+      },
+      {
+        "external_review_id": "sample-0003-3230",
+        "author": "GlobeTrotterX",
+        "text": "Niente di eccezionale ma prezzo accettabile. Niente di eccezionale ma atmosfera accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-06-19"
+      },
+      {
+        "external_review_id": "sample-0008-6816",
+        "author": "AnnaK",
+        "text": "Non torneremmo, soprattutto per cibo scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-06-26"
+      },
+      {
+        "external_review_id": "sample-0055-7164",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-06-26"
+      },
+      {
+        "external_review_id": "sample-0005-1440",
+        "author": "MariaP",
+        "text": "Experience fantastique, prezzo vraiment excellent. Experience fantastique, cibo vraiment excellent.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2026-07-21"
+      },
+      {
+        "external_review_id": "sample-0000-7237",
+        "author": "AnnaK",
+        "text": "We wouldn't come back, mainly because of the poor tempi di attesa.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2026-07-24"
+      },
+      {
+        "external_review_id": "sample-0028-7046",
+        "author": "MariaP",
+        "text": "Highly recommended, atmosfera exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-08-03"
+      },
+      {
+        "external_review_id": "sample-0046-3248",
+        "author": "Marco_R",
+        "text": "Fantastic experience, the cibo was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-08-16"
+      },
+      {
+        "external_review_id": "sample-0012-2885",
+        "author": "Marco_R",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Esperienza fantastica, cibo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-08-19"
+      }
+    ]
+  },
+  {
+    "name": "Bistro Le Marais",
+    "type": "restaurant",
+    "city": "Parigi",
+    "country": "Francia",
+    "category": "Cucina francese",
+    "reviews": [
+      {
+        "external_review_id": "sample-0015-9625",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per tempi di attesa.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2024-09-11"
+      },
+      {
+        "external_review_id": "sample-0050-4111",
+        "author": "Elena_V",
+        "text": "Below expectations because of the prezzo. Below expectations because of the atmosfera.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2024-09-27"
+      },
+      {
+        "external_review_id": "sample-0027-7437",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per prezzo. Esperienza fantastica, tempi di attesa davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-10-11"
+      },
+      {
+        "external_review_id": "sample-0037-8785",
+        "author": "TheFoodie23",
+        "text": "Consigliatissimo, cibo sopra le aspettative. Siamo rimasti molto soddisfatti, soprattutto per atmosfera.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-11"
+      },
+      {
+        "external_review_id": "sample-0049-7620",
+        "author": "Elena_V",
+        "text": "Malheureusement prezzo nous a beaucoup decu. Malheureusement servizio nous a beaucoup decu.",
+        "rating": 1.5,
+        "language": "fr",
+        "review_date": "2024-10-19"
+      },
+      {
+        "external_review_id": "sample-0034-2425",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, servizio sopra le aspettative. Consigliatissimo, tempi di attesa sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-29"
+      },
+      {
+        "external_review_id": "sample-0017-7120",
+        "author": "Emma_W",
+        "text": "Muy satisfechos, sobre todo con tempi di attesa.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2024-11-04"
+      },
+      {
+        "external_review_id": "sample-0024-1547",
+        "author": "GlobeTrotterX",
+        "text": "Nothing special but the servizio was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2024-11-05"
+      },
+      {
+        "external_review_id": "sample-0005-1357",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, tempi di attesa exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2024-11-06"
+      },
+      {
+        "external_review_id": "sample-0031-6632",
+        "author": "LucaB",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per tempi di attesa. Esperienza fantastica, cibo davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-11-17"
+      },
+      {
+        "external_review_id": "sample-0022-1020",
+        "author": "Giulia89",
+        "text": "Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-12-10"
+      },
+      {
+        "external_review_id": "sample-0006-1699",
+        "author": "MariaP",
+        "text": "Niente di eccezionale ma cibo accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-12-25"
+      },
+      {
+        "external_review_id": "sample-0009-7868",
+        "author": "Pierre_M",
+        "text": "Nothing special but the prezzo was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-01-09"
+      },
+      {
+        "external_review_id": "sample-0002-2494",
+        "author": "Laura_S",
+        "text": "servizio lascia molto a desiderare.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2025-01-20"
+      },
+      {
+        "external_review_id": "sample-0035-3428",
+        "author": "Sofia_L",
+        "text": "Experience fantastique, cibo vraiment excellent. Nous etions tres satisfaits, surtout pour atmosfera.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-01-22"
+      },
+      {
+        "external_review_id": "sample-0054-3250",
+        "author": "Pierre_M",
+        "text": "Nothing special but the tempi di attesa was acceptable. Average experience, prezzo was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-01-23"
+      },
+      {
+        "external_review_id": "sample-0000-2731",
+        "author": "AnnaK",
+        "text": "Esperienza fantastica, servizio davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-01-28"
+      },
+      {
+        "external_review_id": "sample-0026-1877",
+        "author": "Sofia_L",
+        "text": "Experiencia fantastica, cibo realmente excelente. Muy satisfechos, sobre todo con atmosfera.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-01-29"
+      },
+      {
+        "external_review_id": "sample-0021-2453",
+        "author": "Elena_V",
+        "text": "Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-02-09"
+      },
+      {
+        "external_review_id": "sample-0007-6799",
+        "author": "Pierre_M",
+        "text": "Would definitely come back, atmosfera was flawless. Would definitely come back, cibo was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-02-14"
+      },
+      {
+        "external_review_id": "sample-0033-3738",
+        "author": "Pierre_M",
+        "text": "Muy satisfechos, sobre todo con cibo.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2025-02-15"
+      },
+      {
+        "external_review_id": "sample-0030-8303",
+        "author": "Giulia89",
+        "text": "Niente di eccezionale ma servizio accettabile. Niente di eccezionale ma prezzo accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-03-01"
+      },
+      {
+        "external_review_id": "sample-0028-2589",
+        "author": "Marco_R",
+        "text": "Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-03-14"
+      },
+      {
+        "external_review_id": "sample-0041-1944",
+        "author": "Laura_S",
+        "text": "We wouldn't come back, mainly because of the poor servizio.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2025-03-15"
+      },
+      {
+        "external_review_id": "sample-0039-7671",
+        "author": "TomH_Reviews",
+        "text": "Non torneremmo, soprattutto per tempi di attesa scadente. Esperienza sotto le aspettative a causa di cibo.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2025-03-26"
+      },
+      {
+        "external_review_id": "sample-0004-3141",
+        "author": "Pierre_M",
+        "text": "Fantastic experience, the cibo was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-06"
+      },
+      {
+        "external_review_id": "sample-0052-6820",
+        "author": "Laura_S",
+        "text": "Unfortunately the prezzo was quite disappointing.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-04-06"
+      },
+      {
+        "external_review_id": "sample-0038-3201",
+        "author": "GlobeTrotterX",
+        "text": "Nous etions tres satisfaits, surtout pour prezzo. Experience fantastique, tempi di attesa vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2025-04-12"
+      },
+      {
+        "external_review_id": "sample-0012-4951",
+        "author": "TheFoodie23",
+        "text": "Experiencia fantastica, tempi di attesa realmente excelente. Experiencia fantastica, servizio realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-05-02"
+      },
+      {
+        "external_review_id": "sample-0001-2964",
+        "author": "TravelWithMe",
+        "text": "Consigliatissimo, servizio sopra le aspettative. Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-05-20"
+      },
+      {
+        "external_review_id": "sample-0051-2599",
+        "author": "TomH_Reviews",
+        "text": "We wouldn't come back, mainly because of the poor prezzo. We wouldn't come back, mainly because of the poor tempi di attesa.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-06-18"
+      },
+      {
+        "external_review_id": "sample-0032-2293",
+        "author": "Emma_W",
+        "text": "Experience fantastique, tempi di attesa vraiment excellent. Nous etions tres satisfaits, surtout pour atmosfera.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-06-24"
+      },
+      {
+        "external_review_id": "sample-0029-7512",
+        "author": "TomH_Reviews",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-03"
+      },
+      {
+        "external_review_id": "sample-0016-1975",
+        "author": "Marco_R",
+        "text": "We were very happy, especially with the prezzo.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-07-19"
+      },
+      {
+        "external_review_id": "sample-0025-3636",
+        "author": "TravelWithMe",
+        "text": "Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-09-10"
+      },
+      {
+        "external_review_id": "sample-0023-6754",
+        "author": "Emma_W",
+        "text": "Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-09-13"
+      },
+      {
+        "external_review_id": "sample-0036-8955",
+        "author": "TomH_Reviews",
+        "text": "Tornerei sicuramente, tempi di attesa impeccabile. Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-09-18"
+      },
+      {
+        "external_review_id": "sample-0044-1813",
+        "author": "AnnaK",
+        "text": "Esperienza nella media, prezzo nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-09-21"
+      },
+      {
+        "external_review_id": "sample-0003-5093",
+        "author": "Sofia_L",
+        "text": "Esperienza fantastica, prezzo davvero eccellente. Tornerei sicuramente, servizio impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-28"
+      },
+      {
+        "external_review_id": "sample-0042-9275",
+        "author": "Emma_W",
+        "text": "Muy satisfechos, sobre todo con prezzo.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-12-10"
+      },
+      {
+        "external_review_id": "sample-0053-1879",
+        "author": "TravelWithMe",
+        "text": "Nous etions tres satisfaits, surtout pour prezzo. Experience fantastique, tempi di attesa vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2025-12-16"
+      },
+      {
+        "external_review_id": "sample-0010-9921",
+        "author": "TomH_Reviews",
+        "text": "atmosfera laisse a desirer.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2025-12-26"
+      },
+      {
+        "external_review_id": "sample-0048-2045",
+        "author": "Elena_V",
+        "text": "Muy satisfechos, sobre todo con tempi di attesa. Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-12-28"
+      },
+      {
+        "external_review_id": "sample-0014-9882",
+        "author": "GlobeTrotterX",
+        "text": "Non torneremmo, soprattutto per tempi di attesa scadente.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-01-08"
+      },
+      {
+        "external_review_id": "sample-0045-1328",
+        "author": "Marco_R",
+        "text": "Nothing special but the prezzo was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-01-29"
+      },
+      {
+        "external_review_id": "sample-0043-6730",
+        "author": "Carlos_M",
+        "text": "Non torneremmo, soprattutto per tempi di attesa scadente. Esperienza sotto le aspettative a causa di atmosfera.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-04-14"
+      },
+      {
+        "external_review_id": "sample-0013-6210",
+        "author": "Carlos_M",
+        "text": "Lamentablemente prezzo nos decepciono bastante. Lamentablemente servizio nos decepciono bastante.",
+        "rating": 1.0,
+        "language": "es",
+        "review_date": "2026-04-20"
+      },
+      {
+        "external_review_id": "sample-0011-4588",
+        "author": "Marco_R",
+        "text": "Average experience, prezzo was okay. Nothing special but the servizio was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-04-25"
+      },
+      {
+        "external_review_id": "sample-0046-6004",
+        "author": "TheFoodie23",
+        "text": "Nothing special but the servizio was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-05-06"
+      },
+      {
+        "external_review_id": "sample-0020-4619",
+        "author": "Sofia_L",
+        "text": "Lamentablemente tempi di attesa nos decepciono bastante. cibo deja mucho que desear.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2026-05-10"
+      },
+      {
+        "external_review_id": "sample-0008-5835",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per cibo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-06-15"
+      },
+      {
+        "external_review_id": "sample-0018-6198",
+        "author": "AnnaK",
+        "text": "Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-06-17"
+      },
+      {
+        "external_review_id": "sample-0047-9530",
+        "author": "Emma_W",
+        "text": "Experience moyenne, prezzo correct. Experience moyenne, servizio correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2026-07-16"
+      },
+      {
+        "external_review_id": "sample-0019-5825",
+        "author": "JohnD_Traveler",
+        "text": "Highly recommended, atmosfera exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-07-28"
+      },
+      {
+        "external_review_id": "sample-0040-9303",
+        "author": "Emma_W",
+        "text": "Nothing special but the cibo was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-08-18"
+      }
+    ]
+  },
+  {
+    "name": "Tapas & Vino",
+    "type": "restaurant",
+    "city": "Barcellona",
+    "country": "Spagna",
+    "category": "Tapas",
+    "reviews": [
+      {
+        "external_review_id": "sample-0002-6279",
+        "author": "Pierre_M",
+        "text": "Experiencia fantastica, cibo realmente excelente. Muy satisfechos, sobre todo con tempi di attesa.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2024-09-05"
+      },
+      {
+        "external_review_id": "sample-0027-3018",
+        "author": "MariaP",
+        "text": "Esperienza nella media, servizio nella norma. Niente di eccezionale ma prezzo accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-10-08"
+      },
+      {
+        "external_review_id": "sample-0021-9305",
+        "author": "Laura_S",
+        "text": "Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-10-12"
+      },
+      {
+        "external_review_id": "sample-0058-1305",
+        "author": "Marco_R",
+        "text": "servizio lascia molto a desiderare. Purtroppo tempi di attesa ci ha deluso parecchio.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-11-07"
+      },
+      {
+        "external_review_id": "sample-0001-3120",
+        "author": "LucaB",
+        "text": "Non torneremmo, soprattutto per servizio scadente. Esperienza sotto le aspettative a causa di tempi di attesa.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-11-20"
+      },
+      {
+        "external_review_id": "sample-0035-4675",
+        "author": "Emma_W",
+        "text": "Esperienza sotto le aspettative a causa di prezzo.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2024-12-04"
+      },
+      {
+        "external_review_id": "sample-0015-7566",
+        "author": "Emma_W",
+        "text": "Experiencia normal, cibo aceptable. Experiencia normal, prezzo aceptable.",
+        "rating": 3.5,
+        "language": "es",
+        "review_date": "2024-12-16"
+      },
+      {
+        "external_review_id": "sample-0006-7006",
+        "author": "Giulia89",
+        "text": "Non torneremmo, soprattutto per tempi di attesa scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-12-26"
+      },
+      {
+        "external_review_id": "sample-0029-2696",
+        "author": "Emma_W",
+        "text": "Average experience, tempi di attesa was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2024-12-31"
+      },
+      {
+        "external_review_id": "sample-0008-1152",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza sotto le aspettative a causa di cibo. Non torneremmo, soprattutto per prezzo scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2025-03-20"
+      },
+      {
+        "external_review_id": "sample-0031-5760",
+        "author": "Carlos_M",
+        "text": "We were very happy, especially with the tempi di attesa. We were very happy, especially with the prezzo.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-03-24"
+      },
+      {
+        "external_review_id": "sample-0011-1044",
+        "author": "Marco_R",
+        "text": "Highly recommended, atmosfera exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-04-19"
+      },
+      {
+        "external_review_id": "sample-0056-4629",
+        "author": "LucaB",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente. Consigliatissimo, servizio sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-05-01"
+      },
+      {
+        "external_review_id": "sample-0026-4209",
+        "author": "Pierre_M",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-05-09"
+      },
+      {
+        "external_review_id": "sample-0012-4787",
+        "author": "MariaP",
+        "text": "Experience moyenne, servizio correct. Experience moyenne, cibo correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-05-11"
+      },
+      {
+        "external_review_id": "sample-0047-7678",
+        "author": "Emma_W",
+        "text": "We were very happy, especially with the tempi di attesa.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-05-13"
+      },
+      {
+        "external_review_id": "sample-0034-5105",
+        "author": "JohnD_Traveler",
+        "text": "We were very happy, especially with the prezzo.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-06-11"
+      },
+      {
+        "external_review_id": "sample-0004-8469",
+        "author": "Elena_V",
+        "text": "Consigliatissimo, cibo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-06-15"
+      },
+      {
+        "external_review_id": "sample-0037-8353",
+        "author": "AnnaK",
+        "text": "Non torneremmo, soprattutto per servizio scadente. Non torneremmo, soprattutto per prezzo scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-06-19"
+      },
+      {
+        "external_review_id": "sample-0057-8978",
+        "author": "Sofia_L",
+        "text": "Niente di eccezionale ma atmosfera accettabile. Niente di eccezionale ma tempi di attesa accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-06-30"
+      },
+      {
+        "external_review_id": "sample-0003-3112",
+        "author": "Sofia_L",
+        "text": "The servizio leaves a lot to be desired.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2025-07-07"
+      },
+      {
+        "external_review_id": "sample-0054-6851",
+        "author": "JohnD_Traveler",
+        "text": "Esperienza sotto le aspettative a causa di tempi di attesa.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2025-07-26"
+      },
+      {
+        "external_review_id": "sample-0024-8751",
+        "author": "Carlos_M",
+        "text": "Niente di eccezionale ma servizio accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-07-27"
+      },
+      {
+        "external_review_id": "sample-0046-1620",
+        "author": "TravelWithMe",
+        "text": "Experience fantastique, cibo vraiment excellent. Nous etions tres satisfaits, surtout pour servizio.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-07-27"
+      },
+      {
+        "external_review_id": "sample-0030-5819",
+        "author": "MariaP",
+        "text": "Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-08-08"
+      },
+      {
+        "external_review_id": "sample-0052-4469",
+        "author": "LucaB",
+        "text": "We were very happy, especially with the prezzo.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-08-09"
+      },
+      {
+        "external_review_id": "sample-0025-5783",
+        "author": "Carlos_M",
+        "text": "Highly recommended, cibo exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-08-20"
+      },
+      {
+        "external_review_id": "sample-0010-7713",
+        "author": "GlobeTrotterX",
+        "text": "We wouldn't come back, mainly because of the poor prezzo.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-08-23"
+      },
+      {
+        "external_review_id": "sample-0013-6123",
+        "author": "LucaB",
+        "text": "Consigliatissimo, cibo sopra le aspettative.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-08-25"
+      },
+      {
+        "external_review_id": "sample-0060-9227",
+        "author": "Marco_R",
+        "text": "Esperienza fantastica, servizio davvero eccellente. Tornerei sicuramente, atmosfera impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-08-29"
+      },
+      {
+        "external_review_id": "sample-0005-1313",
+        "author": "Laura_S",
+        "text": "Experiencia normal, atmosfera aceptable. Experiencia normal, prezzo aceptable.",
+        "rating": 3.0,
+        "language": "es",
+        "review_date": "2025-10-09"
+      },
+      {
+        "external_review_id": "sample-0038-5572",
+        "author": "TheFoodie23",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-11-03"
+      },
+      {
+        "external_review_id": "sample-0042-4937",
+        "author": "Laura_S",
+        "text": "Experiencia fantastica, tempi di attesa realmente excelente. Muy satisfechos, sobre todo con cibo.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-11-21"
+      },
+      {
+        "external_review_id": "sample-0022-6178",
+        "author": "Sofia_L",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente. Tornerei sicuramente, tempi di attesa impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-22"
+      },
+      {
+        "external_review_id": "sample-0055-6379",
+        "author": "GlobeTrotterX",
+        "text": "Would definitely come back, prezzo was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-11-26"
+      },
+      {
+        "external_review_id": "sample-0019-6664",
+        "author": "Emma_W",
+        "text": "Nothing special but the tempi di attesa was acceptable. Average experience, cibo was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-12-28"
+      },
+      {
+        "external_review_id": "sample-0000-6449",
+        "author": "AnnaK",
+        "text": "Experience moyenne, servizio correct. Experience moyenne, prezzo correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2026-01-03"
+      },
+      {
+        "external_review_id": "sample-0020-8688",
+        "author": "TomH_Reviews",
+        "text": "Average experience, cibo was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-01-21"
+      },
+      {
+        "external_review_id": "sample-0009-2928",
+        "author": "GlobeTrotterX",
+        "text": "Below expectations because of the tempi di attesa. Unfortunately the servizio was quite disappointing.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-01-27"
+      },
+      {
+        "external_review_id": "sample-0044-2349",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the cibo. Highly recommended, prezzo exceeded expectations.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-01-30"
+      },
+      {
+        "external_review_id": "sample-0033-2744",
+        "author": "Marco_R",
+        "text": "Muy satisfechos, sobre todo con tempi di attesa. Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-02-08"
+      },
+      {
+        "external_review_id": "sample-0040-4603",
+        "author": "AnnaK",
+        "text": "Average experience, atmosfera was okay. Nothing special but the prezzo was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-02-11"
+      },
+      {
+        "external_review_id": "sample-0028-1795",
+        "author": "LucaB",
+        "text": "Lamentablemente atmosfera nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2026-02-16"
+      },
+      {
+        "external_review_id": "sample-0050-4602",
+        "author": "JohnD_Traveler",
+        "text": "Experience fantastique, atmosfera vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2026-02-19"
+      },
+      {
+        "external_review_id": "sample-0048-1096",
+        "author": "TravelWithMe",
+        "text": "Purtroppo atmosfera ci ha deluso parecchio.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-02-20"
+      },
+      {
+        "external_review_id": "sample-0043-5633",
+        "author": "Marco_R",
+        "text": "atmosfera lascia molto a desiderare.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2026-02-26"
+      },
+      {
+        "external_review_id": "sample-0059-9842",
+        "author": "TomH_Reviews",
+        "text": "tempi di attesa lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-03-01"
+      },
+      {
+        "external_review_id": "sample-0053-8557",
+        "author": "TravelWithMe",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per servizio. Esperienza fantastica, cibo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-03-07"
+      },
+      {
+        "external_review_id": "sample-0051-3316",
+        "author": "Sofia_L",
+        "text": "servizio laisse a desirer. Malheureusement prezzo nous a beaucoup decu.",
+        "rating": 1.0,
+        "language": "fr",
+        "review_date": "2026-03-11"
+      },
+      {
+        "external_review_id": "sample-0023-5990",
+        "author": "Pierre_M",
+        "text": "Purtroppo atmosfera ci ha deluso parecchio. Purtroppo cibo ci ha deluso parecchio.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2026-05-02"
+      },
+      {
+        "external_review_id": "sample-0049-2417",
+        "author": "GlobeTrotterX",
+        "text": "prezzo lascia molto a desiderare.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2026-05-05"
+      },
+      {
+        "external_review_id": "sample-0018-6148",
+        "author": "Marco_R",
+        "text": "Consigliatissimo, cibo sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-06-23"
+      },
+      {
+        "external_review_id": "sample-0007-2771",
+        "author": "Marco_R",
+        "text": "Esperienza nella media, tempi di attesa nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-06-30"
+      },
+      {
+        "external_review_id": "sample-0014-3793",
+        "author": "Elena_V",
+        "text": "We were very happy, especially with the cibo.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-07-02"
+      },
+      {
+        "external_review_id": "sample-0041-6437",
+        "author": "Elena_V",
+        "text": "Non torneremmo, soprattutto per cibo scadente. Non torneremmo, soprattutto per prezzo scadente.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2026-07-02"
+      },
+      {
+        "external_review_id": "sample-0045-4492",
+        "author": "LucaB",
+        "text": "Average experience, cibo was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-07-09"
+      },
+      {
+        "external_review_id": "sample-0017-3140",
+        "author": "TomH_Reviews",
+        "text": "Highly recommended, servizio exceeded expectations. Fantastic experience, the atmosfera was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-07-23"
+      },
+      {
+        "external_review_id": "sample-0036-6122",
+        "author": "Giulia89",
+        "text": "Would definitely come back, cibo was flawless. Would definitely come back, atmosfera was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-07-24"
+      },
+      {
+        "external_review_id": "sample-0016-1960",
+        "author": "AnnaK",
+        "text": "Esperienza fantastica, atmosfera davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per servizio.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-08-04"
+      },
+      {
+        "external_review_id": "sample-0039-3536",
+        "author": "Giulia89",
+        "text": "Nous etions tres satisfaits, surtout pour prezzo.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2026-08-18"
+      },
+      {
+        "external_review_id": "sample-0032-2890",
+        "author": "Carlos_M",
+        "text": "Nothing special but the tempi di attesa was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-08-19"
+      }
+    ]
+  },
+  {
+    "name": "Colosseo - Tour Guidato",
+    "type": "attraction",
+    "city": "Roma",
+    "country": "Italia",
+    "category": "Tour storico",
+    "reviews": [
+      {
+        "external_review_id": "sample-0025-5224",
+        "author": "TravelWithMe",
+        "text": "Fantastic experience, the coda was truly excellent. Would definitely come back, valore was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-12-19"
+      },
+      {
+        "external_review_id": "sample-0044-9835",
+        "author": "AnnaK",
+        "text": "Highly recommended, coda exceeded expectations. Would definitely come back, valore was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-01-07"
+      },
+      {
+        "external_review_id": "sample-0004-4768",
+        "author": "TravelWithMe",
+        "text": "Non torneremmo, soprattutto per valore scadente. Esperienza sotto le aspettative a causa di organizzazione.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2025-02-07"
+      },
+      {
+        "external_review_id": "sample-0034-3148",
+        "author": "Laura_S",
+        "text": "Highly recommended, prezzo exceeded expectations. Would definitely come back, coda was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-02-22"
+      },
+      {
+        "external_review_id": "sample-0018-7075",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, organizzazione exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-04-06"
+      },
+      {
+        "external_review_id": "sample-0028-4965",
+        "author": "TheFoodie23",
+        "text": "Average experience, coda was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-04-19"
+      },
+      {
+        "external_review_id": "sample-0012-8817",
+        "author": "Laura_S",
+        "text": "Nothing special but the prezzo was acceptable. Average experience, organizzazione was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-05-09"
+      },
+      {
+        "external_review_id": "sample-0037-6914",
+        "author": "Carlos_M",
+        "text": "Consigliatissimo, coda sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-05-15"
+      },
+      {
+        "external_review_id": "sample-0005-2856",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per valore. Tornerei sicuramente, organizzazione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-26"
+      },
+      {
+        "external_review_id": "sample-0021-7474",
+        "author": "Emma_W",
+        "text": "prezzo deja mucho que desear.",
+        "rating": 1.5,
+        "language": "es",
+        "review_date": "2025-08-18"
+      },
+      {
+        "external_review_id": "sample-0026-9462",
+        "author": "Marco_R",
+        "text": "prezzo deja mucho que desear.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-08-18"
+      },
+      {
+        "external_review_id": "sample-0027-4580",
+        "author": "TheFoodie23",
+        "text": "Tornerei sicuramente, organizzazione impeccabile. Consigliatissimo, guida sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-08-19"
+      },
+      {
+        "external_review_id": "sample-0038-6326",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per valore. Consigliatissimo, guida sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-08-20"
+      },
+      {
+        "external_review_id": "sample-0033-4013",
+        "author": "TomH_Reviews",
+        "text": "Esperienza sotto le aspettative a causa di guida. prezzo lascia molto a desiderare.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2025-08-31"
+      },
+      {
+        "external_review_id": "sample-0011-1711",
+        "author": "LucaB",
+        "text": "Tornerei sicuramente, coda impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-09-05"
+      },
+      {
+        "external_review_id": "sample-0015-8925",
+        "author": "TheFoodie23",
+        "text": "Would definitely come back, guida was flawless. We were very happy, especially with the coda.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-09-05"
+      },
+      {
+        "external_review_id": "sample-0003-4651",
+        "author": "Emma_W",
+        "text": "Fantastic experience, the coda was truly excellent. Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-09-11"
+      },
+      {
+        "external_review_id": "sample-0032-2650",
+        "author": "Elena_V",
+        "text": "We wouldn't come back, mainly because of the poor organizzazione.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-09-14"
+      },
+      {
+        "external_review_id": "sample-0009-3166",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the valore. Would definitely come back, organizzazione was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-09-20"
+      },
+      {
+        "external_review_id": "sample-0036-2621",
+        "author": "AnnaK",
+        "text": "Muy satisfechos, sobre todo con coda. Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-10-03"
+      },
+      {
+        "external_review_id": "sample-0023-9294",
+        "author": "Sofia_L",
+        "text": "Muy satisfechos, sobre todo con coda. Experiencia fantastica, organizzazione realmente excelente.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-10-12"
+      },
+      {
+        "external_review_id": "sample-0039-7631",
+        "author": "TravelWithMe",
+        "text": "Esperienza nella media, coda nella norma. Niente di eccezionale ma guida accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-10-27"
+      },
+      {
+        "external_review_id": "sample-0014-5155",
+        "author": "TheFoodie23",
+        "text": "Esperienza fantastica, coda davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-01"
+      },
+      {
+        "external_review_id": "sample-0043-3071",
+        "author": "JohnD_Traveler",
+        "text": "Non torneremmo, soprattutto per prezzo scadente. guida lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2025-11-18"
+      },
+      {
+        "external_review_id": "sample-0040-6950",
+        "author": "MariaP",
+        "text": "Tornerei sicuramente, prezzo impeccabile. Consigliatissimo, valore sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-11-20"
+      },
+      {
+        "external_review_id": "sample-0035-1159",
+        "author": "AnnaK",
+        "text": "Malheureusement coda nous a beaucoup decu. Malheureusement guida nous a beaucoup decu.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2025-12-19"
+      },
+      {
+        "external_review_id": "sample-0000-6878",
+        "author": "Giulia89",
+        "text": "Non torneremmo, soprattutto per guida scadente.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2025-12-30"
+      },
+      {
+        "external_review_id": "sample-0030-5591",
+        "author": "Emma_W",
+        "text": "Niente di eccezionale ma coda accettabile. Esperienza nella media, prezzo nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-01-27"
+      },
+      {
+        "external_review_id": "sample-0007-7642",
+        "author": "Marco_R",
+        "text": "Esperienza nella media, prezzo nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-02-02"
+      },
+      {
+        "external_review_id": "sample-0001-6918",
+        "author": "Emma_W",
+        "text": "Purtroppo prezzo ci ha deluso parecchio. Non torneremmo, soprattutto per guida scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2026-02-03"
+      },
+      {
+        "external_review_id": "sample-0042-2363",
+        "author": "Sofia_L",
+        "text": "Esperienza fantastica, valore davvero eccellente. Tornerei sicuramente, organizzazione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-02-09"
+      },
+      {
+        "external_review_id": "sample-0024-5098",
+        "author": "MariaP",
+        "text": "Consigliatissimo, valore sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-02-23"
+      },
+      {
+        "external_review_id": "sample-0022-6703",
+        "author": "Carlos_M",
+        "text": "Highly recommended, organizzazione exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-03-17"
+      },
+      {
+        "external_review_id": "sample-0006-3639",
+        "author": "JohnD_Traveler",
+        "text": "Fantastic experience, the organizzazione was truly excellent. We were very happy, especially with the guida.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-04-01"
+      },
+      {
+        "external_review_id": "sample-0013-9561",
+        "author": "Sofia_L",
+        "text": "Experience fantastique, prezzo vraiment excellent. Experience fantastique, guida vraiment excellent.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2026-04-05"
+      },
+      {
+        "external_review_id": "sample-0008-3338",
+        "author": "AnnaK",
+        "text": "Esperienza nella media, coda nella norma. Niente di eccezionale ma guida accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-04-29"
+      },
+      {
+        "external_review_id": "sample-0010-1639",
+        "author": "Sofia_L",
+        "text": "Experience fantastique, guida vraiment excellent. Nous etions tres satisfaits, surtout pour organizzazione.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2026-05-13"
+      },
+      {
+        "external_review_id": "sample-0017-1086",
+        "author": "TravelWithMe",
+        "text": "Would definitely come back, guida was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-06-04"
+      },
+      {
+        "external_review_id": "sample-0019-9099",
+        "author": "MariaP",
+        "text": "Lamentablemente valore nos decepciono bastante. Lamentablemente prezzo nos decepciono bastante.",
+        "rating": 1.0,
+        "language": "es",
+        "review_date": "2026-06-08"
+      },
+      {
+        "external_review_id": "sample-0020-1590",
+        "author": "Carlos_M",
+        "text": "We were very happy, especially with the guida. We were very happy, especially with the organizzazione.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-07-13"
+      },
+      {
+        "external_review_id": "sample-0029-9071",
+        "author": "Marco_R",
+        "text": "Experience fantastique, guida vraiment excellent. Experience fantastique, organizzazione vraiment excellent.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2026-07-15"
+      },
+      {
+        "external_review_id": "sample-0031-3863",
+        "author": "MariaP",
+        "text": "coda lascia molto a desiderare. Esperienza sotto le aspettative a causa di organizzazione.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-07-25"
+      },
+      {
+        "external_review_id": "sample-0016-3650",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the guida. Would definitely come back, organizzazione was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-08-08"
+      },
+      {
+        "external_review_id": "sample-0041-2311",
+        "author": "Pierre_M",
+        "text": "Nous etions tres satisfaits, surtout pour guida.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2026-08-09"
+      },
+      {
+        "external_review_id": "sample-0002-9542",
+        "author": "TheFoodie23",
+        "text": "Experience moyenne, prezzo correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2026-08-12"
+      }
+    ]
+  },
+  {
+    "name": "Museo Archeologico Nazionale",
+    "type": "attraction",
+    "city": "Napoli",
+    "country": "Italia",
+    "category": "Museo",
+    "reviews": [
+      {
+        "external_review_id": "sample-0026-1567",
+        "author": "GlobeTrotterX",
+        "text": "Tornerei sicuramente, prezzo impeccabile. Tornerei sicuramente, coda impeccabile.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2024-08-22"
+      },
+      {
+        "external_review_id": "sample-0012-1688",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per coda.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-08-31"
+      },
+      {
+        "external_review_id": "sample-0008-2998",
+        "author": "Laura_S",
+        "text": "guida lascia molto a desiderare. Esperienza sotto le aspettative a causa di valore.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-09-03"
+      },
+      {
+        "external_review_id": "sample-0005-3492",
+        "author": "Giulia89",
+        "text": "We were very happy, especially with the prezzo. Highly recommended, coda exceeded expectations.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2024-09-10"
+      },
+      {
+        "external_review_id": "sample-0017-6965",
+        "author": "Laura_S",
+        "text": "Tornerei sicuramente, coda impeccabile. Siamo rimasti molto soddisfatti, soprattutto per organizzazione.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-09-10"
+      },
+      {
+        "external_review_id": "sample-0019-4310",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the guida.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-09-23"
+      },
+      {
+        "external_review_id": "sample-0054-7232",
+        "author": "Elena_V",
+        "text": "coda laisse a desirer.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2024-10-03"
+      },
+      {
+        "external_review_id": "sample-0053-3901",
+        "author": "MariaP",
+        "text": "Non torneremmo, soprattutto per coda scadente. Non torneremmo, soprattutto per guida scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-10-28"
+      },
+      {
+        "external_review_id": "sample-0004-3988",
+        "author": "JohnD_Traveler",
+        "text": "Tornerei sicuramente, prezzo impeccabile. Siamo rimasti molto soddisfatti, soprattutto per valore.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-31"
+      },
+      {
+        "external_review_id": "sample-0016-9702",
+        "author": "JohnD_Traveler",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Siamo rimasti molto soddisfatti, soprattutto per coda.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-31"
+      },
+      {
+        "external_review_id": "sample-0022-4537",
+        "author": "Sofia_L",
+        "text": "Niente di eccezionale ma organizzazione accettabile.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-11-09"
+      },
+      {
+        "external_review_id": "sample-0007-3393",
+        "author": "Giulia89",
+        "text": "Esperienza fantastica, prezzo davvero eccellente. Consigliatissimo, coda sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-11-12"
+      },
+      {
+        "external_review_id": "sample-0006-3468",
+        "author": "Marco_R",
+        "text": "Esperienza fantastica, guida davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per coda.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-11-22"
+      },
+      {
+        "external_review_id": "sample-0009-9538",
+        "author": "Pierre_M",
+        "text": "Esperienza sotto le aspettative a causa di guida.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2024-11-26"
+      },
+      {
+        "external_review_id": "sample-0049-1483",
+        "author": "Elena_V",
+        "text": "Muy satisfechos, sobre todo con guida.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-01-18"
+      },
+      {
+        "external_review_id": "sample-0061-1840",
+        "author": "LucaB",
+        "text": "Average experience, guida was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-02-21"
+      },
+      {
+        "external_review_id": "sample-0050-1429",
+        "author": "TheFoodie23",
+        "text": "Esperienza nella media, guida nella norma. Esperienza nella media, valore nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2025-02-27"
+      },
+      {
+        "external_review_id": "sample-0052-4707",
+        "author": "Giulia89",
+        "text": "Non torneremmo, soprattutto per coda scadente. Non torneremmo, soprattutto per valore scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2025-03-07"
+      },
+      {
+        "external_review_id": "sample-0039-9814",
+        "author": "Pierre_M",
+        "text": "Experience fantastique, coda vraiment excellent. Nous etions tres satisfaits, surtout pour valore.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-03-24"
+      },
+      {
+        "external_review_id": "sample-0020-2161",
+        "author": "Marco_R",
+        "text": "Esperienza fantastica, coda davvero eccellente. Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-04-05"
+      },
+      {
+        "external_review_id": "sample-0045-3485",
+        "author": "Elena_V",
+        "text": "Experience moyenne, valore correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-04-09"
+      },
+      {
+        "external_review_id": "sample-0014-6189",
+        "author": "Carlos_M",
+        "text": "Tornerei sicuramente, guida impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-04-17"
+      },
+      {
+        "external_review_id": "sample-0037-4271",
+        "author": "Carlos_M",
+        "text": "Nothing special but the valore was acceptable. Average experience, guida was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-04-18"
+      },
+      {
+        "external_review_id": "sample-0059-6309",
+        "author": "AnnaK",
+        "text": "Fantastic experience, the coda was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-05-05"
+      },
+      {
+        "external_review_id": "sample-0035-8046",
+        "author": "Elena_V",
+        "text": "Purtroppo guida ci ha deluso parecchio.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-05-21"
+      },
+      {
+        "external_review_id": "sample-0031-9591",
+        "author": "Giulia89",
+        "text": "Malheureusement coda nous a beaucoup decu.",
+        "rating": 2.0,
+        "language": "fr",
+        "review_date": "2025-06-30"
+      },
+      {
+        "external_review_id": "sample-0027-1355",
+        "author": "TheFoodie23",
+        "text": "Experiencia fantastica, organizzazione realmente excelente. Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2025-07-10"
+      },
+      {
+        "external_review_id": "sample-0018-7714",
+        "author": "Elena_V",
+        "text": "We wouldn't come back, mainly because of the poor guida. The coda leaves a lot to be desired.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2025-07-18"
+      },
+      {
+        "external_review_id": "sample-0001-5698",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per valore.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-08-09"
+      },
+      {
+        "external_review_id": "sample-0021-7814",
+        "author": "Carlos_M",
+        "text": "Lamentablemente coda nos decepciono bastante.",
+        "rating": 1.0,
+        "language": "es",
+        "review_date": "2025-08-26"
+      },
+      {
+        "external_review_id": "sample-0028-5093",
+        "author": "Laura_S",
+        "text": "Highly recommended, guida exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-09-01"
+      },
+      {
+        "external_review_id": "sample-0003-4614",
+        "author": "TheFoodie23",
+        "text": "Experience fantastique, coda vraiment excellent. Nous etions tres satisfaits, surtout pour guida.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-09-13"
+      },
+      {
+        "external_review_id": "sample-0041-5445",
+        "author": "Carlos_M",
+        "text": "Esperienza fantastica, organizzazione davvero eccellente. Esperienza fantastica, coda davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-09-23"
+      },
+      {
+        "external_review_id": "sample-0058-7775",
+        "author": "Elena_V",
+        "text": "Average experience, guida was okay.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-09-28"
+      },
+      {
+        "external_review_id": "sample-0030-7824",
+        "author": "Sofia_L",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative. Consigliatissimo, valore sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-11-09"
+      },
+      {
+        "external_review_id": "sample-0000-6044",
+        "author": "Carlos_M",
+        "text": "We were very happy, especially with the prezzo. Fantastic experience, the coda was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-11-17"
+      },
+      {
+        "external_review_id": "sample-0055-8485",
+        "author": "Giulia89",
+        "text": "Unfortunately the valore was quite disappointing.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-11-27"
+      },
+      {
+        "external_review_id": "sample-0033-1807",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, guida sopra le aspettative. Esperienza fantastica, valore davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-22"
+      },
+      {
+        "external_review_id": "sample-0010-5895",
+        "author": "Pierre_M",
+        "text": "Experiencia fantastica, guida realmente excelente. Muy satisfechos, sobre todo con organizzazione.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-12-27"
+      },
+      {
+        "external_review_id": "sample-0029-3832",
+        "author": "TomH_Reviews",
+        "text": "Purtroppo valore ci ha deluso parecchio. guida lascia molto a desiderare.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2025-12-29"
+      },
+      {
+        "external_review_id": "sample-0015-8168",
+        "author": "GlobeTrotterX",
+        "text": "prezzo lascia molto a desiderare. Purtroppo guida ci ha deluso parecchio.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2025-12-31"
+      },
+      {
+        "external_review_id": "sample-0042-9709",
+        "author": "TravelWithMe",
+        "text": "Experience fantastique, guida vraiment excellent. Nous etions tres satisfaits, surtout pour coda.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-12-31"
+      },
+      {
+        "external_review_id": "sample-0044-5519",
+        "author": "Giulia89",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Siamo rimasti molto soddisfatti, soprattutto per valore.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-01-17"
+      },
+      {
+        "external_review_id": "sample-0056-1807",
+        "author": "Pierre_M",
+        "text": "Tornerei sicuramente, valore impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-02-01"
+      },
+      {
+        "external_review_id": "sample-0043-5995",
+        "author": "Elena_V",
+        "text": "Experiencia fantastica, organizzazione realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-02-15"
+      },
+      {
+        "external_review_id": "sample-0024-7579",
+        "author": "Elena_V",
+        "text": "We wouldn't come back, mainly because of the poor coda. We wouldn't come back, mainly because of the poor organizzazione.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2026-03-08"
+      },
+      {
+        "external_review_id": "sample-0060-7235",
+        "author": "Giulia89",
+        "text": "We were very happy, especially with the organizzazione. Would definitely come back, coda was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-03-08"
+      },
+      {
+        "external_review_id": "sample-0034-4245",
+        "author": "TomH_Reviews",
+        "text": "Would definitely come back, guida was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-03-17"
+      },
+      {
+        "external_review_id": "sample-0023-3931",
+        "author": "LucaB",
+        "text": "We wouldn't come back, mainly because of the poor guida.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2026-03-28"
+      },
+      {
+        "external_review_id": "sample-0046-3502",
+        "author": "LucaB",
+        "text": "Esperienza sotto le aspettative a causa di valore. Non torneremmo, soprattutto per guida scadente.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2026-03-31"
+      },
+      {
+        "external_review_id": "sample-0047-9869",
+        "author": "Pierre_M",
+        "text": "Esperienza nella media, guida nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2026-04-08"
+      },
+      {
+        "external_review_id": "sample-0040-9631",
+        "author": "Giulia89",
+        "text": "Fantastic experience, the valore was truly excellent. Would definitely come back, guida was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-10"
+      },
+      {
+        "external_review_id": "sample-0036-1396",
+        "author": "GlobeTrotterX",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Consigliatissimo, guida sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-04-22"
+      },
+      {
+        "external_review_id": "sample-0002-4788",
+        "author": "Marco_R",
+        "text": "Below expectations because of the prezzo. The organizzazione leaves a lot to be desired.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2026-04-25"
+      },
+      {
+        "external_review_id": "sample-0057-1893",
+        "author": "JohnD_Traveler",
+        "text": "Nous etions tres satisfaits, surtout pour coda. Nous etions tres satisfaits, surtout pour guida.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2026-05-11"
+      },
+      {
+        "external_review_id": "sample-0038-3419",
+        "author": "GlobeTrotterX",
+        "text": "Malheureusement organizzazione nous a beaucoup decu.",
+        "rating": 1.0,
+        "language": "fr",
+        "review_date": "2026-05-19"
+      },
+      {
+        "external_review_id": "sample-0011-8113",
+        "author": "Elena_V",
+        "text": "Experience moyenne, organizzazione correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2026-06-01"
+      },
+      {
+        "external_review_id": "sample-0025-8054",
+        "author": "Elena_V",
+        "text": "Highly recommended, prezzo exceeded expectations. Would definitely come back, valore was flawless.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2026-06-01"
+      },
+      {
+        "external_review_id": "sample-0048-3589",
+        "author": "Elena_V",
+        "text": "We were very happy, especially with the coda.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-06-24"
+      },
+      {
+        "external_review_id": "sample-0032-7436",
+        "author": "MariaP",
+        "text": "Esperienza fantastica, guida davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-07-12"
+      },
+      {
+        "external_review_id": "sample-0013-6544",
+        "author": "Giulia89",
+        "text": "Esperienza fantastica, coda davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-07-25"
+      },
+      {
+        "external_review_id": "sample-0051-8808",
+        "author": "JohnD_Traveler",
+        "text": "Esperienza fantastica, prezzo davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-27"
+      }
+    ]
+  },
+  {
+    "name": "Sagrada Familia - Skip the Line",
+    "type": "attraction",
+    "city": "Barcellona",
+    "country": "Spagna",
+    "category": "Monumento",
+    "reviews": [
+      {
+        "external_review_id": "sample-0008-2936",
+        "author": "Marco_R",
+        "text": "Malheureusement prezzo nous a beaucoup decu.",
+        "rating": 2.5,
+        "language": "fr",
+        "review_date": "2024-08-23"
+      },
+      {
+        "external_review_id": "sample-0000-5146",
+        "author": "Marco_R",
+        "text": "Lamentablemente guida nos decepciono bastante. Lamentablemente organizzazione nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2024-08-25"
+      },
+      {
+        "external_review_id": "sample-0053-7737",
+        "author": "Sofia_L",
+        "text": "Lamentablemente valore nos decepciono bastante. Lamentablemente organizzazione nos decepciono bastante.",
+        "rating": 1.0,
+        "language": "es",
+        "review_date": "2024-09-03"
+      },
+      {
+        "external_review_id": "sample-0024-2410",
+        "author": "LucaB",
+        "text": "Would definitely come back, organizzazione was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-10-16"
+      },
+      {
+        "external_review_id": "sample-0037-1257",
+        "author": "JohnD_Traveler",
+        "text": "Esperienza nella media, guida nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2024-11-03"
+      },
+      {
+        "external_review_id": "sample-0045-3077",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, valore exceeded expectations. Would definitely come back, organizzazione was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2024-11-14"
+      },
+      {
+        "external_review_id": "sample-0015-9143",
+        "author": "Laura_S",
+        "text": "Consigliatissimo, prezzo sopra le aspettative. Tornerei sicuramente, organizzazione impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-11-18"
+      },
+      {
+        "external_review_id": "sample-0007-9132",
+        "author": "TomH_Reviews",
+        "text": "Highly recommended, coda exceeded expectations. Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-01-01"
+      },
+      {
+        "external_review_id": "sample-0036-4083",
+        "author": "Emma_W",
+        "text": "Tornerei sicuramente, guida impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-01-11"
+      },
+      {
+        "external_review_id": "sample-0012-8546",
+        "author": "Elena_V",
+        "text": "Experience fantastique, coda vraiment excellent. Nous etions tres satisfaits, surtout pour organizzazione.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2025-01-28"
+      },
+      {
+        "external_review_id": "sample-0021-5483",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the prezzo.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-01-30"
+      },
+      {
+        "external_review_id": "sample-0049-8602",
+        "author": "Emma_W",
+        "text": "Fantastic experience, the organizzazione was truly excellent. Fantastic experience, the prezzo was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-02-09"
+      },
+      {
+        "external_review_id": "sample-0016-2838",
+        "author": "Carlos_M",
+        "text": "Muy satisfechos, sobre todo con valore.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2025-02-17"
+      },
+      {
+        "external_review_id": "sample-0017-6572",
+        "author": "TomH_Reviews",
+        "text": "valore deja mucho que desear. Lamentablemente organizzazione nos decepciono bastante.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-03-04"
+      },
+      {
+        "external_review_id": "sample-0025-9740",
+        "author": "TravelWithMe",
+        "text": "Highly recommended, valore exceeded expectations. Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-03-12"
+      },
+      {
+        "external_review_id": "sample-0020-4154",
+        "author": "GlobeTrotterX",
+        "text": "Esperienza nella media, organizzazione nella norma. Niente di eccezionale ma prezzo accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-03-15"
+      },
+      {
+        "external_review_id": "sample-0018-1598",
+        "author": "MariaP",
+        "text": "Non torneremmo, soprattutto per valore scadente.",
+        "rating": 2.5,
+        "language": "it",
+        "review_date": "2025-03-20"
+      },
+      {
+        "external_review_id": "sample-0032-3276",
+        "author": "Marco_R",
+        "text": "Unfortunately the prezzo was quite disappointing. Unfortunately the coda was quite disappointing.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2025-04-01"
+      },
+      {
+        "external_review_id": "sample-0039-4044",
+        "author": "LucaB",
+        "text": "Below expectations because of the valore. The coda leaves a lot to be desired.",
+        "rating": 1.0,
+        "language": "en",
+        "review_date": "2025-04-10"
+      },
+      {
+        "external_review_id": "sample-0001-4553",
+        "author": "TomH_Reviews",
+        "text": "Would definitely come back, valore was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-22"
+      },
+      {
+        "external_review_id": "sample-0029-4992",
+        "author": "AnnaK",
+        "text": "Would definitely come back, valore was flawless. Would definitely come back, coda was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-04-23"
+      },
+      {
+        "external_review_id": "sample-0010-2111",
+        "author": "GlobeTrotterX",
+        "text": "Highly recommended, guida exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-05-09"
+      },
+      {
+        "external_review_id": "sample-0034-2022",
+        "author": "Carlos_M",
+        "text": "Experiencia normal, organizzazione aceptable. Experiencia normal, valore aceptable.",
+        "rating": 3.0,
+        "language": "es",
+        "review_date": "2025-06-19"
+      },
+      {
+        "external_review_id": "sample-0031-7648",
+        "author": "TravelWithMe",
+        "text": "We were very happy, especially with the coda.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-07-03"
+      },
+      {
+        "external_review_id": "sample-0023-6549",
+        "author": "MariaP",
+        "text": "Experience moyenne, guida correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2025-07-06"
+      },
+      {
+        "external_review_id": "sample-0014-7147",
+        "author": "AnnaK",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative. Esperienza fantastica, guida davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-08-04"
+      },
+      {
+        "external_review_id": "sample-0011-7488",
+        "author": "Marco_R",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-08-06"
+      },
+      {
+        "external_review_id": "sample-0048-4898",
+        "author": "MariaP",
+        "text": "Nothing special but the coda was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-09-18"
+      },
+      {
+        "external_review_id": "sample-0040-9948",
+        "author": "Carlos_M",
+        "text": "Nous etions tres satisfaits, surtout pour valore.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-10-16"
+      },
+      {
+        "external_review_id": "sample-0009-1745",
+        "author": "Elena_V",
+        "text": "Esperienza sotto le aspettative a causa di valore.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2025-10-19"
+      },
+      {
+        "external_review_id": "sample-0005-2063",
+        "author": "GlobeTrotterX",
+        "text": "Niente di eccezionale ma prezzo accettabile. Esperienza nella media, valore nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-11-02"
+      },
+      {
+        "external_review_id": "sample-0035-7459",
+        "author": "Elena_V",
+        "text": "Fantastic experience, the organizzazione was truly excellent. We were very happy, especially with the prezzo.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-11-07"
+      },
+      {
+        "external_review_id": "sample-0027-8987",
+        "author": "Marco_R",
+        "text": "Nothing special but the coda was acceptable. Nothing special but the guida was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2025-11-29"
+      },
+      {
+        "external_review_id": "sample-0052-4961",
+        "author": "Pierre_M",
+        "text": "Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-07"
+      },
+      {
+        "external_review_id": "sample-0026-4796",
+        "author": "Laura_S",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative. Tornerei sicuramente, coda impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-12-16"
+      },
+      {
+        "external_review_id": "sample-0050-5302",
+        "author": "JohnD_Traveler",
+        "text": "Would definitely come back, coda was flawless.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-12-20"
+      },
+      {
+        "external_review_id": "sample-0028-2686",
+        "author": "Emma_W",
+        "text": "Consigliatissimo, guida sopra le aspettative. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-01-24"
+      },
+      {
+        "external_review_id": "sample-0043-8687",
+        "author": "Elena_V",
+        "text": "Nothing special but the coda was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2026-01-28"
+      },
+      {
+        "external_review_id": "sample-0041-5578",
+        "author": "MariaP",
+        "text": "Average experience, organizzazione was okay. Average experience, coda was okay.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-02-12"
+      },
+      {
+        "external_review_id": "sample-0047-1542",
+        "author": "Elena_V",
+        "text": "Non torneremmo, soprattutto per coda scadente.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2026-02-13"
+      },
+      {
+        "external_review_id": "sample-0051-6797",
+        "author": "LucaB",
+        "text": "Experiencia fantastica, coda realmente excelente. Experiencia fantastica, prezzo realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-02-17"
+      },
+      {
+        "external_review_id": "sample-0022-6218",
+        "author": "TheFoodie23",
+        "text": "Nothing special but the guida was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2026-03-07"
+      },
+      {
+        "external_review_id": "sample-0044-5267",
+        "author": "Giulia89",
+        "text": "Experiencia fantastica, prezzo realmente excelente. Muy satisfechos, sobre todo con guida.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2026-03-22"
+      },
+      {
+        "external_review_id": "sample-0013-6169",
+        "author": "Marco_R",
+        "text": "valore lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2026-03-23"
+      },
+      {
+        "external_review_id": "sample-0046-3476",
+        "author": "MariaP",
+        "text": "Fantastic experience, the prezzo was truly excellent. We were very happy, especially with the organizzazione.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-04-19"
+      },
+      {
+        "external_review_id": "sample-0004-3906",
+        "author": "MariaP",
+        "text": "Consigliatissimo, guida sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-05-09"
+      },
+      {
+        "external_review_id": "sample-0006-1953",
+        "author": "Sofia_L",
+        "text": "We were very happy, especially with the prezzo. We were very happy, especially with the coda.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-05-10"
+      },
+      {
+        "external_review_id": "sample-0002-4401",
+        "author": "Giulia89",
+        "text": "Consigliatissimo, guida sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-05-18"
+      },
+      {
+        "external_review_id": "sample-0038-7813",
+        "author": "MariaP",
+        "text": "Lamentablemente organizzazione nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2026-06-10"
+      },
+      {
+        "external_review_id": "sample-0030-2276",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per coda. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-07-01"
+      },
+      {
+        "external_review_id": "sample-0003-5889",
+        "author": "Elena_V",
+        "text": "Fantastic experience, the guida was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-07-06"
+      },
+      {
+        "external_review_id": "sample-0033-6187",
+        "author": "GlobeTrotterX",
+        "text": "We wouldn't come back, mainly because of the poor coda. We wouldn't come back, mainly because of the poor valore.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2026-07-20"
+      },
+      {
+        "external_review_id": "sample-0042-9834",
+        "author": "GlobeTrotterX",
+        "text": "Fantastic experience, the coda was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-07-23"
+      },
+      {
+        "external_review_id": "sample-0019-2426",
+        "author": "Elena_V",
+        "text": "Unfortunately the prezzo was quite disappointing.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2026-07-26"
+      }
+    ]
+  },
+  {
+    "name": "Musee du Louvre - Visita Guidata",
+    "type": "attraction",
+    "city": "Parigi",
+    "country": "Francia",
+    "category": "Museo",
+    "reviews": [
+      {
+        "external_review_id": "sample-0013-3822",
+        "author": "Giulia89",
+        "text": "Experiencia fantastica, guida realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2024-09-05"
+      },
+      {
+        "external_review_id": "sample-0012-3319",
+        "author": "TomH_Reviews",
+        "text": "We were very happy, especially with the valore. Fantastic experience, the guida was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2024-09-28"
+      },
+      {
+        "external_review_id": "sample-0005-7397",
+        "author": "TheFoodie23",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per organizzazione. Esperienza fantastica, coda davvero eccellente.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-09-29"
+      },
+      {
+        "external_review_id": "sample-0060-5467",
+        "author": "Carlos_M",
+        "text": "Experience fantastique, prezzo vraiment excellent.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2024-10-15"
+      },
+      {
+        "external_review_id": "sample-0022-6966",
+        "author": "GlobeTrotterX",
+        "text": "We wouldn't come back, mainly because of the poor coda. Unfortunately the guida was quite disappointing.",
+        "rating": 1.5,
+        "language": "en",
+        "review_date": "2024-10-16"
+      },
+      {
+        "external_review_id": "sample-0035-9433",
+        "author": "Carlos_M",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2024-10-17"
+      },
+      {
+        "external_review_id": "sample-0000-4552",
+        "author": "Sofia_L",
+        "text": "Fantastic experience, the guida was truly excellent. Fantastic experience, the organizzazione was truly excellent.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2024-10-19"
+      },
+      {
+        "external_review_id": "sample-0010-9856",
+        "author": "GlobeTrotterX",
+        "text": "Tornerei sicuramente, coda impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-25"
+      },
+      {
+        "external_review_id": "sample-0042-1361",
+        "author": "Laura_S",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-10-25"
+      },
+      {
+        "external_review_id": "sample-0002-5543",
+        "author": "Giulia89",
+        "text": "coda deja mucho que desear. Lamentablemente prezzo nos decepciono bastante.",
+        "rating": 2.5,
+        "language": "es",
+        "review_date": "2024-11-05"
+      },
+      {
+        "external_review_id": "sample-0009-8175",
+        "author": "Pierre_M",
+        "text": "Nothing special but the coda was acceptable. Nothing special but the organizzazione was acceptable.",
+        "rating": 3.0,
+        "language": "en",
+        "review_date": "2024-11-16"
+      },
+      {
+        "external_review_id": "sample-0028-7745",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per valore. Siamo rimasti molto soddisfatti, soprattutto per guida.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2024-11-18"
+      },
+      {
+        "external_review_id": "sample-0004-1571",
+        "author": "TravelWithMe",
+        "text": "Esperienza sotto le aspettative a causa di guida. organizzazione lascia molto a desiderare.",
+        "rating": 1.0,
+        "language": "it",
+        "review_date": "2024-12-05"
+      },
+      {
+        "external_review_id": "sample-0014-2870",
+        "author": "TomH_Reviews",
+        "text": "Esperienza nella media, valore nella norma.",
+        "rating": 3.0,
+        "language": "it",
+        "review_date": "2024-12-08"
+      },
+      {
+        "external_review_id": "sample-0027-8627",
+        "author": "MariaP",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2024-12-13"
+      },
+      {
+        "external_review_id": "sample-0020-9686",
+        "author": "Sofia_L",
+        "text": "We wouldn't come back, mainly because of the poor coda. We wouldn't come back, mainly because of the poor organizzazione.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2024-12-20"
+      },
+      {
+        "external_review_id": "sample-0033-7641",
+        "author": "AnnaK",
+        "text": "Nothing special but the coda was acceptable.",
+        "rating": 3.5,
+        "language": "en",
+        "review_date": "2025-01-10"
+      },
+      {
+        "external_review_id": "sample-0047-8504",
+        "author": "Elena_V",
+        "text": "Tornerei sicuramente, organizzazione impeccabile. Tornerei sicuramente, valore impeccabile.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-01-17"
+      },
+      {
+        "external_review_id": "sample-0017-1256",
+        "author": "TomH_Reviews",
+        "text": "Would definitely come back, organizzazione was flawless.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-01-30"
+      },
+      {
+        "external_review_id": "sample-0023-1476",
+        "author": "TomH_Reviews",
+        "text": "Esperienza fantastica, organizzazione davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per valore.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-01-30"
+      },
+      {
+        "external_review_id": "sample-0036-2097",
+        "author": "Pierre_M",
+        "text": "Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-02-17"
+      },
+      {
+        "external_review_id": "sample-0054-5968",
+        "author": "TomH_Reviews",
+        "text": "Lamentablemente coda nos decepciono bastante. Lamentablemente guida nos decepciono bastante.",
+        "rating": 2.0,
+        "language": "es",
+        "review_date": "2025-03-22"
+      },
+      {
+        "external_review_id": "sample-0037-6250",
+        "author": "Carlos_M",
+        "text": "Esperienza nella media, coda nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-04-09"
+      },
+      {
+        "external_review_id": "sample-0045-2915",
+        "author": "Giulia89",
+        "text": "Non torneremmo, soprattutto per guida scadente.",
+        "rating": 2.0,
+        "language": "it",
+        "review_date": "2025-04-22"
+      },
+      {
+        "external_review_id": "sample-0031-2361",
+        "author": "Marco_R",
+        "text": "Below expectations because of the coda.",
+        "rating": 2.5,
+        "language": "en",
+        "review_date": "2025-04-25"
+      },
+      {
+        "external_review_id": "sample-0001-5826",
+        "author": "MariaP",
+        "text": "Fantastic experience, the valore was truly excellent. We were very happy, especially with the guida.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2025-05-08"
+      },
+      {
+        "external_review_id": "sample-0059-3668",
+        "author": "Giulia89",
+        "text": "Highly recommended, coda exceeded expectations. Fantastic experience, the organizzazione was truly excellent.",
+        "rating": 4.5,
+        "language": "en",
+        "review_date": "2025-05-14"
+      },
+      {
+        "external_review_id": "sample-0040-2835",
+        "author": "JohnD_Traveler",
+        "text": "Esperienza nella media, organizzazione nella norma.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2025-05-31"
+      },
+      {
+        "external_review_id": "sample-0021-1869",
+        "author": "Pierre_M",
+        "text": "Experiencia normal, coda aceptable.",
+        "rating": 3.0,
+        "language": "es",
+        "review_date": "2025-06-01"
+      },
+      {
+        "external_review_id": "sample-0058-9078",
+        "author": "TravelWithMe",
+        "text": "Fantastic experience, the organizzazione was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-06-01"
+      },
+      {
+        "external_review_id": "sample-0044-8469",
+        "author": "AnnaK",
+        "text": "Non torneremmo, soprattutto per prezzo scadente. organizzazione lascia molto a desiderare.",
+        "rating": 1.5,
+        "language": "it",
+        "review_date": "2025-06-09"
+      },
+      {
+        "external_review_id": "sample-0052-6651",
+        "author": "Carlos_M",
+        "text": "Highly recommended, prezzo exceeded expectations. Fantastic experience, the coda was truly excellent.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-06-09"
+      },
+      {
+        "external_review_id": "sample-0049-1406",
+        "author": "Emma_W",
+        "text": "Lamentablemente valore nos decepciono bastante.",
+        "rating": 1.5,
+        "language": "es",
+        "review_date": "2025-07-03"
+      },
+      {
+        "external_review_id": "sample-0062-5932",
+        "author": "TheFoodie23",
+        "text": "The valore leaves a lot to be desired.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2025-07-11"
+      },
+      {
+        "external_review_id": "sample-0051-9381",
+        "author": "Giulia89",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per organizzazione. Tornerei sicuramente, coda impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-07-13"
+      },
+      {
+        "external_review_id": "sample-0015-4493",
+        "author": "Giulia89",
+        "text": "Esperienza fantastica, coda davvero eccellente. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-07-17"
+      },
+      {
+        "external_review_id": "sample-0029-8114",
+        "author": "Laura_S",
+        "text": "Experience fantastique, organizzazione vraiment excellent. Experience fantastique, coda vraiment excellent.",
+        "rating": 4.5,
+        "language": "fr",
+        "review_date": "2025-07-23"
+      },
+      {
+        "external_review_id": "sample-0011-1701",
+        "author": "Emma_W",
+        "text": "Nous etions tres satisfaits, surtout pour organizzazione. Experience fantastique, valore vraiment excellent.",
+        "rating": 4.0,
+        "language": "fr",
+        "review_date": "2025-08-02"
+      },
+      {
+        "external_review_id": "sample-0046-3423",
+        "author": "Carlos_M",
+        "text": "Esperienza fantastica, guida davvero eccellente. Consigliatissimo, valore sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-08-09"
+      },
+      {
+        "external_review_id": "sample-0038-8412",
+        "author": "TomH_Reviews",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2025-08-10"
+      },
+      {
+        "external_review_id": "sample-0007-1904",
+        "author": "TravelWithMe",
+        "text": "Consigliatissimo, organizzazione sopra le aspettative. Consigliatissimo, prezzo sopra le aspettative.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-10-06"
+      },
+      {
+        "external_review_id": "sample-0055-3865",
+        "author": "MariaP",
+        "text": "Muy satisfechos, sobre todo con organizzazione. Muy satisfechos, sobre todo con valore.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2025-10-20"
+      },
+      {
+        "external_review_id": "sample-0053-8249",
+        "author": "GlobeTrotterX",
+        "text": "Experience moyenne, guida correct.",
+        "rating": 3.0,
+        "language": "fr",
+        "review_date": "2025-10-21"
+      },
+      {
+        "external_review_id": "sample-0018-8798",
+        "author": "JohnD_Traveler",
+        "text": "Consigliatissimo, valore sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2025-10-22"
+      },
+      {
+        "external_review_id": "sample-0030-9701",
+        "author": "Emma_W",
+        "text": "Experience moyenne, organizzazione correct. Experience moyenne, valore correct.",
+        "rating": 3.5,
+        "language": "fr",
+        "review_date": "2025-10-31"
+      },
+      {
+        "external_review_id": "sample-0026-4181",
+        "author": "Carlos_M",
+        "text": "Muy satisfechos, sobre todo con guida. Experiencia fantastica, coda realmente excelente.",
+        "rating": 5.0,
+        "language": "es",
+        "review_date": "2025-12-03"
+      },
+      {
+        "external_review_id": "sample-0039-2430",
+        "author": "TravelWithMe",
+        "text": "Fantastic experience, the coda was truly excellent. We were very happy, especially with the prezzo.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2025-12-03"
+      },
+      {
+        "external_review_id": "sample-0025-8936",
+        "author": "Giulia89",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per guida. Esperienza fantastica, coda davvero eccellente.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2025-12-17"
+      },
+      {
+        "external_review_id": "sample-0006-8144",
+        "author": "Emma_W",
+        "text": "valore deja mucho que desear.",
+        "rating": 1.0,
+        "language": "es",
+        "review_date": "2025-12-24"
+      },
+      {
+        "external_review_id": "sample-0003-4287",
+        "author": "Emma_W",
+        "text": "Muy satisfechos, sobre todo con prezzo. Experiencia fantastica, guida realmente excelente.",
+        "rating": 4.5,
+        "language": "es",
+        "review_date": "2026-01-07"
+      },
+      {
+        "external_review_id": "sample-0061-2258",
+        "author": "Pierre_M",
+        "text": "prezzo deja mucho que desear.",
+        "rating": 1.5,
+        "language": "es",
+        "review_date": "2026-02-15"
+      },
+      {
+        "external_review_id": "sample-0048-8243",
+        "author": "Elena_V",
+        "text": "Highly recommended, prezzo exceeded expectations. We were very happy, especially with the coda.",
+        "rating": 4.0,
+        "language": "en",
+        "review_date": "2026-03-23"
+      },
+      {
+        "external_review_id": "sample-0043-3161",
+        "author": "GlobeTrotterX",
+        "text": "Tornerei sicuramente, coda impeccabile. Consigliatissimo, valore sopra le aspettative.",
+        "rating": 4.5,
+        "language": "it",
+        "review_date": "2026-03-25"
+      },
+      {
+        "external_review_id": "sample-0050-9625",
+        "author": "Laura_S",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per valore.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-04-11"
+      },
+      {
+        "external_review_id": "sample-0056-5979",
+        "author": "TomH_Reviews",
+        "text": "Experience fantastique, valore vraiment excellent. Nous etions tres satisfaits, surtout pour coda.",
+        "rating": 5.0,
+        "language": "fr",
+        "review_date": "2026-04-13"
+      },
+      {
+        "external_review_id": "sample-0019-3949",
+        "author": "TomH_Reviews",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per coda. Esperienza fantastica, guida davvero eccellente.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-04-24"
+      },
+      {
+        "external_review_id": "sample-0057-8742",
+        "author": "Sofia_L",
+        "text": "Highly recommended, prezzo exceeded expectations.",
+        "rating": 5.0,
+        "language": "en",
+        "review_date": "2026-06-08"
+      },
+      {
+        "external_review_id": "sample-0008-4327",
+        "author": "AnnaK",
+        "text": "Muy satisfechos, sobre todo con coda.",
+        "rating": 4.0,
+        "language": "es",
+        "review_date": "2026-06-16"
+      },
+      {
+        "external_review_id": "sample-0032-5994",
+        "author": "AnnaK",
+        "text": "Esperienza nella media, guida nella norma. Niente di eccezionale ma organizzazione accettabile.",
+        "rating": 3.5,
+        "language": "it",
+        "review_date": "2026-07-08"
+      },
+      {
+        "external_review_id": "sample-0024-6336",
+        "author": "Laura_S",
+        "text": "Tornerei sicuramente, valore impeccabile. Siamo rimasti molto soddisfatti, soprattutto per prezzo.",
+        "rating": 4.0,
+        "language": "it",
+        "review_date": "2026-07-16"
+      },
+      {
+        "external_review_id": "sample-0041-9870",
+        "author": "JohnD_Traveler",
+        "text": "Tornerei sicuramente, prezzo impeccabile.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-07-21"
+      },
+      {
+        "external_review_id": "sample-0034-6454",
+        "author": "Giulia89",
+        "text": "Below expectations because of the organizzazione.",
+        "rating": 2.0,
+        "language": "en",
+        "review_date": "2026-07-30"
+      },
+      {
+        "external_review_id": "sample-0016-7060",
+        "author": "AnnaK",
+        "text": "Siamo rimasti molto soddisfatti, soprattutto per coda.",
+        "rating": 5.0,
+        "language": "it",
+        "review_date": "2026-08-05"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+*.egg-info/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Docker volumes materializzati in locale (se si usano bind mount invece di volumi nominati)
+model_cache/

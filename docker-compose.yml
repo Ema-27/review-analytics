@@ -1,0 +1,97 @@
+name: tourinsight
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: tourinsight-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: tourinsight
+      POSTGRES_PASSWORD: tourinsight
+      POSTGRES_DB: tourinsight
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tourinsight"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    ports:
+      - "5432:5432"
+
+  # LLM instruct locale (quantizzato) usato dal backend per generare sintesi,
+  # confronti competitivi e suggerimenti in italiano. Gratuito e offline dopo
+  # il primo download; il modello e' persistito nel volume `ollama_data`.
+  ollama:
+    image: ollama/ollama:0.3.14
+    container_name: tourinsight-ollama
+    restart: unless-stopped
+    environment:
+      # Tiene il modello caricato in RAM per 30 min dopo l'ultima richiesta:
+      # la 2a generazione (es. sintesi -> suggerimenti) non paga il reload.
+      OLLAMA_KEEP_ALIVE: "30m"
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list >/dev/null 2>&1 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 15
+
+  # Servizio one-shot: pre-scarica il modello all'avvio dello stack, cosi' la
+  # prima richiesta AI dal Front-End non deve attendere il download (~2 GB).
+  # Il modello e' letto da OLLAMA_MODEL in backend/.env (stessa fonte del
+  # backend), con fallback a gemma2:2b se non impostato.
+  ollama-init:
+    image: ollama/ollama:0.3.14
+    container_name: tourinsight-ollama-init
+    depends_on:
+      ollama:
+        condition: service_healthy
+    env_file:
+      - ./backend/.env
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+    entrypoint: ["/bin/sh", "-c", "ollama pull \"${OLLAMA_MODEL:-gemma2:2b}\""]
+    restart: "no"
+
+  backend:
+    build:
+      context: ./backend
+    container_name: tourinsight-backend
+    restart: unless-stopped
+    env_file:
+      - ./backend/.env
+    environment:
+      DATABASE_URL: postgresql+psycopg://tourinsight:tourinsight@db:5432/tourinsight
+      OLLAMA_BASE_URL: http://ollama:11434
+    depends_on:
+      db:
+        condition: service_healthy
+      # service_started (non _healthy): se Ollama e' lento o non disponibile il
+      # backend parte comunque e la generazione ricade sui report da template.
+      ollama:
+        condition: service_started
+    volumes:
+      # Cache persistente dei modelli Hugging Face: evita di riscaricarli
+      # (centinaia di MB / alcuni GB) a ogni riavvio del container.
+      - model_cache:/app/model_cache
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: tourinsight-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  db_data:
+  model_cache:
+  ollama_data:

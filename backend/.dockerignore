@@ -1,0 +1,21 @@
+# Ambienti e cache locali: non devono finire nell'immagine
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+model_cache/
+
+# Segreti / configurazione locale (l'immagine legge le env var a runtime)
+.env
+.env.*
+!.env.example
+
+# VCS ed editor
+.git/
+.gitignore
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,365 @@
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb;
+  --page: #f9f9f7;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --muted: #898781;
+  --gridline: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.1);
+  --series-1: #2a78d6;
+  --good: #0ca30c;
+  --warning: #fab219;
+  --critical: #d03b3b;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --surface: #1a1a19;
+    --page: #0d0d0d;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --muted: #898781;
+    --gridline: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255, 255, 255, 0.1);
+    --series-1: #3987e5;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--page);
+  color: var(--text-primary);
+}
+
+a {
+  color: var(--series-1);
+  text-decoration: none;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 14px 24px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navbar .brand {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+}
+
+.navbar nav {
+  display: flex;
+  gap: 4px;
+}
+
+.navbar nav a,
+.navbar nav .navlink {
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+.navbar nav a.active,
+.navbar nav a:hover {
+  background: var(--page);
+  color: var(--text-primary);
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.page-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 4px 0;
+  letter-spacing: -0.01em;
+}
+
+.page-subtitle {
+  color: var(--text-secondary);
+  margin: 0 0 24px 0;
+  font-size: 0.95rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
+}
+
+.grid-kpis {
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  margin-bottom: 20px;
+}
+
+.grid-2col {
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 860px) {
+  .grid-2col {
+    grid-template-columns: 1fr;
+  }
+}
+
+.kpi-tile .kpi-label {
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+}
+
+.kpi-tile .kpi-value {
+  font-size: 1.7rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 14px 0;
+}
+
+.property-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.property-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  transition: border-color 0.15s ease;
+}
+
+.property-card:hover {
+  border-color: var(--series-1);
+}
+
+.property-card .prop-type {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.property-card .prop-name {
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 4px 0 2px 0;
+}
+
+.property-card .prop-city {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  margin-bottom: 10px;
+}
+
+.property-card .prop-stats {
+  display: flex;
+  gap: 16px;
+  font-size: 0.85rem;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--page);
+  color: var(--text-secondary);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 9px 16px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-primary);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: var(--series-1);
+}
+
+.btn.primary {
+  background: var(--series-1);
+  border-color: var(--series-1);
+  color: white;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+
+.ai-report {
+  white-space: pre-wrap;
+  line-height: 1.55;
+  font-size: 0.94rem;
+  color: var(--text-primary);
+}
+
+.ai-report-meta {
+  color: var(--muted);
+  font-size: 0.78rem;
+  margin-top: 10px;
+}
+
+.filter-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+
+.filter-bar select,
+.filter-bar input {
+  padding: 8px 10px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-primary);
+  font-size: 0.88rem;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  max-width: 640px;
+}
+
+.form-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.form-grid input,
+.form-grid select {
+  padding: 9px 10px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--page);
+  color: var(--text-primary);
+  font-size: 0.9rem;
+}
+
+.chart-placeholder {
+  border-radius: var(--radius);
+  background: linear-gradient(90deg, var(--page) 25%, var(--gridline) 37%, var(--page) 63%);
+  background-size: 400% 100%;
+  animation: chart-placeholder-shimmer 1.4s ease infinite;
+}
+
+@keyframes chart-placeholder-shimmer {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.empty-state {
+  color: var(--text-secondary);
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.checkbox-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.checkbox-list label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.88rem;
+  cursor: pointer;
+}
+
+.tag {
+  font-size: 0.72rem;
+  padding: 2px 7px;
+  border-radius: 6px;
+  background: var(--page);
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+}
+
+footer.app-footer {
+  text-align: center;
+  padding: 18px;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
